@@ -10,8 +10,25 @@
 ![image-20181010231844048](../misc/resource/image-20181010231844048.png)
 
 2. Command line -> python3
-   실행된 command 창에서 python3를 입력하고 엔터를 칩니다.
+   실행된 command 창에서 python3를 입력하고 enter를 칩니다.
 
    ![image-20181010232201354](../misc/resource/image-20181010232201354.png)
 
-   만약 다음과 같이 파이썬3이 실행된다면, 이미 파이썬3이 설치된 상태입니다.
+   만약 다음과 같이 파이썬3이 실행된다면, 이미 파이썬3이 설치된 상태입니다. 파이썬 실행 종료는 exit()를 치고 enter를 치면됩니다.
+
+   ![image-20181011000519741](../misc/resource/image-20181011000519741.png)
+
+   만약 다음과 같은 커맨드가 보인다면 파이썬3가 설치 되지 않은 상태입니다.
+
+Reference:
+http://kybin.github.io/translateDiveIntoPython3korean/installing-python.html
+
+https://datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/
+
+
+
+\- <https://eu.udacity.com/course/intro-to-data-analysis--ud170>
+
+\- <https://www.coursera.org/learn/interactive-python-1?siteID=SAyYsTvLiGQ-cQic4Qv12rZguVAvwsFfCg>
+
+\- https://www.coursera.org/learn/python?siteID=SAyYsTvLiGQ-7ABVjPVfWj_M1BT1CbtWMg
