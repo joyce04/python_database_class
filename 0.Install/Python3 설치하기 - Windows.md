@@ -5,9 +5,9 @@
 윈도우에는 두가지 아키텍쳐 32비트와 64비트가 존재합니다. 어떤 아키텍처에서 작동하는 지 확인하기 위해서 
 
 1. 윈도우 버튼 -> Computer 마우스 우 클릭
-   ![computer_prop](../misc/resource/computer_prop.jpg)
+   ![computer_prop](../misc/resource/computer_prop.jpg =300x)
 2. 속성 화면에서 시스템 타입 확인
-   ![system_type](../misc/resource/system_type.jpg)
+   ![system_type](../misc/resource/system_type.jpg = 300x)
 
 ## 2. Anaconda 설치
 
