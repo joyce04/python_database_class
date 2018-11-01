@@ -39,7 +39,7 @@ id	country	num	name	club	birth	height	position
 38	Egypt	21	TREZEGUET	Kasimpasa SK (TUR)	01/10/94	181	MF
 39	Egypt	22	AMR WARDA	Atromitos FC (GRE)	17/09/93	179	FW
 40	Egypt	5	SAM MORSY	Wigan Athletic (ENG)	10/09/91	173	MF
-41	Egypt	11	KAHRABA	Al Ittihad (Jeddah) (KSA)	13/04/94	182	FW
+41	Egypt	11	KAHRABA	Al Ittifaq (KSA)	13/04/94	182	FW
 42	Egypt	14	RAMADAN SOBHY	Stoke (ENG)	23/01/97	183	FW
 43	Uruguay	1	Fernando MUSLERA	Galatasaray (TUR)	16/06/86	190	GK
 44	Uruguay	2	Jose GIMENEZ	Atlético Madrid (ESP)	20/01/95	185	DF
@@ -193,7 +193,7 @@ id	country	num	name	club	birth	height	position
 192	Iceland	18	Hordur MAGNUSSON	Bristol City (ENG)	11/02/93	191	DF
 193	Iceland	20	Emil HALLFREDSSON	Udinese (ITA)	29/06/84	186	MF
 194	Iceland	9	Bjorn SIGURDARSON	FK Rostov (RUS)	26/02/91	187	FW
-195	Iceland	19	Rurik GISLASON	Sportverein Sandhaus.	25/02/88	184	MF
+195	Iceland	19	Rurik GISLASON	Sportverein Sandhaus. (GER)	25/02/88	184	MF
 196	Iceland	23	Ari SKULASON	Lokeren (BEL)	14/05/87	170	DF
 197	Croatia	23	Danijel SUBASIC	AS Monaco (FRA)	27/10/84	191	GK
 198	Croatia	2	Sime VRSALJKO	Atlético Madrid (ESP)	10/01/92	181	DF
@@ -511,7 +511,7 @@ id	country	num	name	club	birth	height	position
 510	Colombia	8	Abel AGUILAR	Cali (COL)	06/01/85	185	MF
 511	Colombia	13	Yerry MINA	FC Barcelona (ESP)	23/09/94	194	DF
 512	Colombia	15	Mateus URIBE	America (MEX)	21/03/91	182	MF
-513	Poland	6	Jacek GORALSKI	PFC Ludogorets Razgr.	21/09/92	172	MF
+513	Poland	6	Jacek GORALSKI	PFC Ludogorets Razgr. (BGR)	21/09/92	172	MF
 514	Poland	14	Lukasz TEODORCZYK	Anderlecht (BEL)	03/06/91	185	FW
 515	Poland	15	Kamil GLIK	AS Monaco (FRA)	03/02/88	190	DF
 516	Japan	11	Takashi USAMI	Fortuna Duesseldorf (GER)	06/05/92	178	MF
@@ -569,7 +569,7 @@ id	country	num	name	club	birth	height	position
 569	Panama	13	Adolfo MACHADO	Houston Dynamo (USA)	14/02/85	182	DF
 570	Panama	17	Luis OVALLE	Olimpia (HON)	07/09/88	178	DF
 571	Panama	3	Harold CUMMINGS	San Jose Earthquakes (USA)	01/03/92	183	DF
-572	Tunisia	16	Aymen MATHLOUTHI	Al Batin Football Cl.	14/09/84	182	GK
+572	Tunisia	16	Aymen MATHLOUTHI	Al Batin Football Cl. (KSA)	14/09/84	182	GK
 573	Tunisia	5	Oussama HADDADI	Dijon (FRA)	28/01/92	185	DF
 574	Tunisia	6	Rami BEDOUI	ES du Sahel (TUN)	19/01/90	187	DF
 575	Tunisia	20	Ghaylen CHAALELI	Esperance (TUN)	28/02/94	179	FW

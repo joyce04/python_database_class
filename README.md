@@ -1,5 +1,7 @@
 # 빅데이터 프로그래밍 수업
 
+(Big Data Programming Course)
+
 
 
 도시 데이터사이언스 연구소에서 진행되는 **서울대학교 Big Data Academy** 과정 내 [**문봉기 교수님**](http://dbs.snu.ac.kr/)께서 담당하시는 [**빅데이터 프로그래밍**](http://udsl.snu.ac.kr/s2/s2_1.php) 실습 수업을 위한 Repository입니다.
@@ -13,6 +15,16 @@
 0. Python3 설치 과정 안내
    - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
 1. Python3 기본 문법 및 pixiedust를 활용한 주피터 내 디버깅
+   - Python3 기본 문법
+   - Python3 유용한 기능 (Lambda, Map, Reduce)
 2. Pandas, Numpy를 활용한 데이터 분석
+   - Pandas
+     - Pandas를 활용해 선수들 소속 클럽 세어보기 (2018 축구 월드컵 선수 데이터)
 3. Python-SQLite 실습
 4. Python-MongoDB 실습
+
+
+
+참고:
+
+- 파이썬 라이브러리를 활용한 데이터 분석
