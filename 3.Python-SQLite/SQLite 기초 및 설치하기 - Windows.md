@@ -17,14 +17,14 @@ SQLite의 특징으로는
 
 ## 윈도우에서 SQLite 설치하기
 
-1. https://www.sqlite.org/download.html 다운로드 페이지에서 윈도우용 바이너리(Precomplied Binaries for Windows) 파일을 받는다.
+1. https://www.sqlite.org/download.html 다운로드 페이지에서 윈도우용 바이너리(Precomplied Binaries for Windows) 파일을 받는다. 밑의 경우 32비트라 tools를 포함해 두가지 파일을 받는다.
    ![image-20181102105146532](../misc/resource/image-20181102105146532.png)
 
-2. 다운로드한 ZIP파일의 압축을 풀어 원하는 폴더로 이동한다.
-   sqlite3.exe 파일을 더블클릭하여 실행한다.
-   ![image-20181102105756540](../misc/resource/image-20181102105756540.png)
+2. 다운로드한 ZIP파일들의 압축을 풀어 모두 원하는 폴더로 이동한다.
+   ![image-20181102112228036](../misc/resource/image-20181102112228036.png)
 
-3. 명령 프롬프트에서 다음과 같은 화면이 정상출력되면 설치된 것이다. 종료할 때는 .quit 을 입력한다.
+3. sqlite3.exe 파일을 더블클릭하여 실행한다.
+   명령 프롬프트에서 다음과 같은 화면이 정상출력되면 설치된 것이다. 종료할 때는 .quit 을 입력한다.
 
    ![image-20181102110308347](../misc/resource/image-20181102110308347.png)
 
