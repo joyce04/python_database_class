@@ -21,7 +21,6 @@
    만약 다음과 같은 커맨드가 보인다면 파이썬3가 설치 되지 않은 상태입니다.
 
 Reference:
-http://kybin.github.io/translateDiveIntoPython3korean/installing-python.html
 
 https://datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/
 
