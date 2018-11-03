@@ -21,12 +21,12 @@
 
    ![image-20181103142021580](../misc/resource/image-20181103142021580.png)
 
-   1. 
+
 
    4. Jupyter Notebook을 실행한다.
       실행 시 웹서버 프로세스가 실행되는 콘솔 창이 실행되고 동시에 http://localhost:8888/tree 주소로 웹 브라우저가 가동된다.   
       웹서버 프로세스가 돌아가는 커멘드 창을 닫으면 주피터 노트북 웹서버가 중지되므로 주피터 노트북 사용이 끝날 때까지 콘솔 창을 닫으면 안된다.
-      ![image-20181101003355114](/Users/grace/Documents/TA/python_database_class/misc/resource/image-20181101003355114.png)
+      ![image-20181101003355114](../misc/resource/image-20181101003355114.png)
 
 
 Reference:
