@@ -33,8 +33,12 @@
 3. Python-SQLite 실습
 
    - SQLite 설치하기 (Windows, OS X)
+   - SQLite shell을 통한 실습
+   - Python-SQLite, sqlite와 Pandas를 활용해 데이터 분석하기
 
 4. Python-MongoDB 실습
+
+   - 
 
 
 
