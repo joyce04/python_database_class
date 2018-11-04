@@ -28,7 +28,7 @@
    - Pandas
      - Pandas를 활용한 선수들 소속 클럽 세어보기 (2018 축구 월드컵 선수 데이터)
      - Pandas를 활용한 영화 평점 데이터 분석하기 (MovieLens 데이터)
-   - Numpy 기초
+     - Pandas를 활용한 
 
 3. Python-SQLite 실습
 
