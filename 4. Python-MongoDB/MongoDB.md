@@ -1,7 +1,5 @@
 # MongoDB
 
-[TOC]
-
 ## 1. MongoDB와 NoSQL
 
 * MongoDB는 문서지향(Document-Oriented)적 Cross-platform 데이터베이스
@@ -528,10 +526,6 @@ ddress" : "tokyo" }
 [ "busan", "seoul", "newyork", "tokyo" ]
 ```
 
+## References
 
-
-
-
-
-
-
+* https://velopert.com
