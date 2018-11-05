@@ -50,7 +50,35 @@
 
 
 
-## 2. MongoDB의 설치
+## 2. MongoDB의 사용
+
+### 1. MongoDB를 사용하는 2가지 방법
+
+1. 설치형 MongoDB를 Local 혹은 Server에 설치하여 사용
+
+2. MongDB Atlas를 통해 Free Cluster를 생성하여 사용
+
+#### 1) MongoDB 직접 설치
+
+* 직접 설치하기 위해서는 [mongoDB 홈페이지](https://www.mongodb.com/download-center?jmp=homepage#community)를 통해 설치파일을 다운로드 하여 설치를 진행
+
+* 기본 설치경로:   Program Files\MongoDB\Server\x.x
+
+* Database 경로 지정하기
+
+  ```SHELL
+  "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath d:\test\mongodb\data
+  ```
+
+* MongoDB 실행하기
+
+  ```shell
+  "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe"
+  ```
+
+#### 2) MongoDB Atlas 활용하기
+
+### 2. MongoDB 접속
 
 ### MongoDB를 설치하는 2가지 방법
 
