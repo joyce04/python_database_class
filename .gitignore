@@ -4,3 +4,5 @@
 *.ipynb_checkpoints
 **/mongo_conn.py
 **/__pycache__
+**/ml-10m/**
+**/handson_prep_session4.ipynb

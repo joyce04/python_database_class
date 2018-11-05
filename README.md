@@ -14,7 +14,7 @@
 
 0. Python3 설치 과정 안내
 
-   - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
+     - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
 
 1. Python3 기본 문법 및 pixiedust를 활용한 주피터 내 디버깅
 
@@ -29,16 +29,19 @@
      - Pandas를 활용한 선수들 소속 클럽 세어보기 (2018 축구 월드컵 선수 데이터)
      - Pandas를 활용한 영화 평점 데이터 분석하기 (MovieLens 데이터)
    - Numpy
+     - Numpy 기초
 
 3. Python-SQLite 실습
 
    - SQLite 설치하기 (Windows, OS X)
    - SQLite shell을 통한 실습
-   - Python-SQLite, sqlite와 Pandas를 활용해 데이터 분석하기
+   - Python-SQLite, sqlite와 Pandas를 활용해 베스트 크리스마스 영화 분석하기 (MovieLens 데이터)
 
 4. Python-MongoDB 실습
 
-   - 
+   - MongoDB Atlas 계정 만들고, Cluster 생성하기
+   - Mongo shell 설치 및 실습
+   - Python-MongoDB, pymongo 실습
 
 
 
@@ -47,4 +50,6 @@
 - 파이썬 라이브러리를 활용한 데이터 분석
 - 빠르게 활용하는 모바일 데이터베이스 SQLite3 (위키북스)
 - https://wikidocs.net/5326 
-- https://datascienceschool.net/view-notebook/5e52b7c4b5754f2585844c8d9b26cdb5/
+- https://datascienceschool.net/view-notebook/5e52b7c4b5754f2585844c8d9b26cdb5
+- http://kybin.github.io/translateDiveIntoPython3korean/installing-python.html
+- http://t-redactyl.io/blog/2015/12/what-are-the-most-popular-christmas-movies-according-to-movielens-10m.html
