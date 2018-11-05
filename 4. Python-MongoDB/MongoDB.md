@@ -94,21 +94,21 @@
 #### MongoDB Atlas 활용하기
 
 * [MongoDB 홈페이지](https://www.mongodb.com/cloud) 접속 및 회원 가입
-  ![1541411889909](..\misc\resource\1541411889909.png)
-  ![1541412268206](..\misc\resource\1541412268206.png)
+  ![1541411889909](../misc/resource/1541411889909.png)
+  ![1541412268206](../misc/resource/1541412268206.png)
 * Global Cluster Setting(Free Tier)
   * 무료로 제공되는 M0를 선택 
-    ![1541412960597](..\misc\resource\1541412960597.png)
-    ![1541413097276](..\misc\resource\1541413097276.png)
+    ![1541412960597](../misc/resource/1541412960597.png)
+    ![1541413097276](../misc/resource/1541413097276.png)
   * User 생성 및 IP Whitelist 작성
-    ![1541413405856](..\misc\resource\1541413405856.png)
-    ![1541413412013](..\misc\resource\1541413412013.png)
-    ![1541413418215](..\misc\resource\1541413418215.png)
-    ![1541413422395](..\misc\resource\1541413422395.png)
+    ![1541413405856](../misc/resource/1541413405856.png)
+    ![1541413412013](../misc/resource/1541413412013.png)
+    ![1541413418215](../misc/resource/1541413418215.png)
+    ![1541413422395](../misc/resource/1541413422395.png)
   * MongoDB Atlas URL 확인하기
-    ![1541413601381](..\misc\resource\1541413601381.png)
-    ![1541413610092](..\misc\resource\1541413610092.png)
-    ![1541413615622](..\misc\resource\1541413615622.png)
+    ![1541413601381](../misc/resource/1541413601381.png)
+    ![1541413610092](../misc/resource/1541413610092.png)
+    ![1541413615622](../misc/resource/1541413615622.png)
 
 ### MongoDB Shell 실행
 
