@@ -531,5 +531,3 @@ ddress" : "tokyo" }
 ## References
 
 * https://velopert.com
-
-
