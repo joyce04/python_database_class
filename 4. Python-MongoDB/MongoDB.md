@@ -52,96 +52,91 @@
 
 ## 2. MongoDB의 사용
 
-### 1. MongoDB를 사용하는 2가지 방법
+### MongoDB를 사용하는 2가지 방법
 
 1. 설치형 MongoDB를 Local 혹은 Server에 설치하여 사용
 
 2. MongDB Atlas를 통해 Free Cluster를 생성하여 사용
 
-#### 1) MongoDB 직접 설치
+#### MongoDB 직접 설치
 
 * 직접 설치하기 위해서는 [mongoDB 홈페이지](https://www.mongodb.com/download-center?jmp=homepage#community)를 통해 설치파일을 다운로드 하여 설치를 진행
 
-* 기본 설치경로:   Program Files\MongoDB\Server\x.x
+* MongoDB의 압축이 풀린 경로가 기본경로이며, OS 설정 및 다운로드 버전에 따라 경로는 상이
+
+  * Windows: C:\Users\\*<USERNAME>*\Downloads\mongodb-win32-x86_64-2008plus-ssl-4.0.3\bin
+  * OSX: /Users/*<USERNAME>*/Downloads/mongodb-osx-x86_64-4.0.3/bin
 
 * Database 경로 지정하기
 
+  * MongoDB의 기본 Database 경로는 Windows는 **C:\data\db** OSX은 **/data/db**
+  * Database 경로가 존재하지 않으면 MongoDB를 실행할 때 에러 발생
+  * 기본 Database 경로를 생성해 주거나 아래 명령어를 통해 Database 경로를 실제 존재하는 경로로 지정
+
   ```SHELL
-  "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath d:\test\mongodb\data
+  // Windows
+  "C:\Users\<USERNAME>\Downloads\mongodb-win32-x86_64-2008plus-ssl-4.0.3\bin\mongod.exe" --dbpath d:\test\mongodb\data
+  
+  // OSX
+  ~/Downloads/mongodb-osx-x86_64-4.0.3/bin/mongod --dbpath /test/mongodb/data
   ```
 
 * MongoDB 실행하기
 
   ```shell
-  "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe"
+  // Windows
+  "C:\Users\<USERNAME>\Downloads\mongodb-win32-x86_64-2008plus-ssl-4.0.3\bin\mongo.exe"
+  
+  // OSX
+  ~/Downloads/mongodb-osx-x86_64-4.0.3/bin/mongo
   ```
 
-#### 2) MongoDB Atlas 활용하기
+#### MongoDB Atlas 활용하기
 
-### 2. MongoDB 접속
-
-### MongoDB를 설치하는 2가지 방법
-
-1. 설치형 MongoDB를 Local 혹은 Server에 설치하여 사용
-
-2. MongDB Atlas를 통해 Free Cluster를 생성하여 사용
-
-#### 1) MongoDB 직접 설치
-
-* **Windows**
-
-  * 직접 설치하기 위해서는 [mongoDB 홈페이지](https://www.mongodb.com/download-center?jmp=homepage#community)를 통해 설치파일을 다운로드 하여 설치를 진행
-
-  * 기본 설치경로:   Program Files\MongoDB\Server\x.x
-
-  * MongoDB 실행하기
-
-    ```shell
-    "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"
-    ```
-
-  * Database 경로 지정하여 실행하기
-
-    ```SHELL
-    "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath d:\test\mongodb\data
-    ```
-
-* **OSX**
-
-  * -
-
-#### 2) MongoDB Atlas 활용하기
-* **Windows**
-  * -
-* **OSX**
-  * -
+* [MongoDB 홈페이지](https://www.mongodb.com/cloud) 접속 및 회원 가입
+  ![1541411889909](..\misc\resource\1541411889909.png)
+  ![1541412268206](..\misc\resource\1541412268206.png)
+* Global Cluster Setting(Free Tier)
+  * 무료로 제공되는 M0를 선택 
+    ![1541412960597](..\misc\resource\1541412960597.png)
+    ![1541413097276](..\misc\resource\1541413097276.png)
+  * User 생성 및 IP Whitelist 작성
+    ![1541413405856](..\misc\resource\1541413405856.png)
+    ![1541413412013](..\misc\resource\1541413412013.png)
+    ![1541413418215](..\misc\resource\1541413418215.png)
+    ![1541413422395](..\misc\resource\1541413422395.png)
+  * MongoDB Atlas URL 확인하기
+    ![1541413601381](..\misc\resource\1541413601381.png)
+    ![1541413610092](..\misc\resource\1541413610092.png)
+    ![1541413615622](..\misc\resource\1541413615622.png)
 
 ### MongoDB Shell 실행
 
-#### Windows
+#### Local MongoDB 접속
 
-* Local MongoDB 접속
+```shell
+// Windows
+"C:\Users\<USERNAME>\Downloads\mongodb-win32-x86_64-2008plus-ssl-4.0.3\bin\mongo.exe"
 
-    ```shell
-    "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe"
-    ```
+// OSX
+~/Downloads/mongodb-osx-x86_64-4.0.3/bin/mongo
+```
 
-* MongoDB Atlas 접속
+#### MongoDB Atlas 접속
 
-    ```shell
-    "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" "mongodb+srv://[mongodb atlas url]" --username admin
-    ```
+```shell
+// Windows
+"C:\Users\<USERNAME>\Downloads\mongodb-win32-x86_64-2008plus-ssl-4.0.3\bin\mongo.exe" "mongodb+srv://[mongodb atlas url]" --username admin
+
+// OSX
+~/Downloads/mongodb-osx-x86_64-4.0.3/bin/mongo "mongodb+srv://[mongodb atlas url]" --username admin
+```
 
 * MongoDB Shell 종료: **Ctrl + D**
 
-#### OSX
-
-* Local MongoDB 접속
-* MongoDB Atals 접속
-
 #### 오류 대응
 
-* 설치 후 MSVCP140.dll 오류로 Shell이 실행되지 않는 경우
+* Windows 에서 MongoDB 압축 해제 후 MSVCP140.dll 오류로 Shell이 실행되지 않는 경우
   * PC에 설치된 Visual Studio의 visual C++이 구버전인 경우에 발생
   * [다음 주소](https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=48145)에 접속하여 재배포 패키지를 다운로드 & 설치
 
