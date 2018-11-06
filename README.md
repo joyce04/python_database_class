@@ -14,7 +14,7 @@
 
 0. Python3 설치 과정 안내
 
-     - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
+      - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
 
 1. Python3 기본 문법 및 pixiedust를 활용한 주피터 내 디버깅
 
@@ -26,6 +26,7 @@
 2. Pandas, Numpy를 활용한 데이터 분석
 
    - Pandas
+     - Pandas 기초
      - Pandas를 활용한 선수들 소속 클럽 세어보기 (2018 축구 월드컵 선수 데이터)
      - Pandas를 활용한 영화 평점 데이터 분석하기 (MovieLens 데이터)
    - Numpy
@@ -35,7 +36,7 @@
 
    - SQLite 설치하기 (Windows, OS X)
    - SQLite shell을 통한 실습
-   - Python-SQLite, sqlite와 Pandas를 활용해 베스트 크리스마스 영화 분석하기 (MovieLens 데이터)
+   - Python-SQLite, sqlite와 Pandas를 활용해 베스트 드라마 영화 분석하기 (MovieLens 데이터)
 
 4. Python-MongoDB 실습
 
@@ -45,10 +46,15 @@
 
 
 
+
+
+오늘의 필요 파일 : https://github.com/joyce04/big_data_class_daily
+
 실습 파일 작성 시 참고 자료:
 
 - 파이썬 라이브러리를 활용한 데이터 분석
 - 빠르게 활용하는 모바일 데이터베이스 SQLite3 (위키북스)
+- 파이썬으로 배우는 알고리즘 트레이딩
 - https://wikidocs.net/5326 
 - https://datascienceschool.net/view-notebook/5e52b7c4b5754f2585844c8d9b26cdb5
 - http://kybin.github.io/translateDiveIntoPython3korean/installing-python.html
