@@ -535,7 +535,7 @@ ddress" : "tokyo" }
   * group stage는 Grouping key와 Grouping operation으로 구성
     * { $group : { _id: *GROUP KEY* , *GROUP FUNCTION* : *TARGET COLUMN*} }
   * 각 stage를 list로 묶어서 aggregate의 인자로 전달
-  * 실습을 위해서 [import worldcup data 폴더](https://github.com/madigun697/python_database_class/tree/master/4.%20Python-MongoDB/import%20worldcup%20data)에서 파이썬 파일(insert_worldcup_data.py) 및 데이터 파일(wc_match.tsv, team.tsv, players.tsv)을 다운로드 후 실행
+  * 실습을 위해서 [import worldcup data 폴더](https://github.com/joyce04/python_database_class/tree/master/4.%20Python-MongoDB/import%20worldcup%20data)에서 파이썬 파일(insert_worldcup_data.py) 및 데이터 파일(wc_match.tsv, team.tsv, players.tsv)을 다운로드 후 실행
     * 모든 파일은 동일한 경로에 다운로드
     * Command(OSX의 경우 terminal)을 통해 해당 경로로 이동
     * 명령어 입력: ```python insert_worldcup_data.py <MongoDB Cloud URL> <ID> <PASSWORD>``` 
