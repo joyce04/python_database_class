@@ -59,3 +59,4 @@
 - https://datascienceschool.net/view-notebook/5e52b7c4b5754f2585844c8d9b26cdb5
 - http://kybin.github.io/translateDiveIntoPython3korean/installing-python.html
 - http://t-redactyl.io/blog/2015/12/what-are-the-most-popular-christmas-movies-according-to-movielens-10m.html
+- http://thinking-jmini.tistory.com/10
