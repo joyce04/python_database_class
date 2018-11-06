@@ -1,2 +1,1 @@
-first row 
-second row
+second string
