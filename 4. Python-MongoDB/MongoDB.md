@@ -528,6 +528,55 @@ ddress" : "tokyo" }
 [ "busan", "seoul", "newyork", "tokyo" ]
 ```
 
+* 그룹핑(GROUP BY): **db.*COLLECTION_NAME*.aggregate()**
+  * Aggregate는 match stage와 group stage, option으로 구분
+  * match stage는 Collection에서 원하는 부분을 filter
+    - { $match : { *COLUMN: VALUE* } }
+  * group stage는 Grouping key와 Grouping operation으로 구성
+    * { $group : { _id: *GROUP KEY* , *GROUP FUNCTION* : *TARGET COLUMN*} }
+  * 각 stage를 list로 묶어서 aggregate의 인자로 전달
+  * 실습을 위해서 [import worldcup data 폴더](https://github.com/madigun697/python_database_class/tree/master/4.%20Python-MongoDB/import%20worldcup%20data)에서 파이썬 파일(insert_worldcup_data.py) 및 데이터 파일(wc_match.tsv, team.tsv, players.tsv)을 다운로드 후 실행
+    * 모든 파일은 동일한 경로에 다운로드
+    * Command(OSX의 경우 terminal)을 통해 해당 경로로 이동
+    * 명령어 입력: ```python insert_worldcup_data.py <MongoDB Cloud URL> <ID> <PASSWORD>``` 
+    * MongoDB Cloud URL은 위의 Shell 실행 시 사용되었던 URL 중 cluster0-xxxxx.mongodb.net 부분
+    * ID 및 Password는 MongoDB의 것을 입력
+    * 64가 출력되면 성공적으로 데이터 추가 완료
+
+```shell
+> use Football
+switched to db Football
+
+> db.wc_match.aggregate([
+...    {'$group': {
+...        '_id': '$home_team.country',
+...        'home_goal': {'$sum' : '$home_team.score'}
+...    }},
+...    {'$sort': {'home_goal': -1}}
+...])
+{'_id': 'Belgium', 'home_goal': 13}
+{'_id': 'France', 'home_goal': 12}
+{'_id': 'Russia', 'home_goal': 10}
+{'_id': 'England', 'home_goal': 6}
+{'_id': 'Uruguay', 'home_goal': 6}
+{'_id': 'Brazil', 'home_goal': 6}
+{'_id': 'Croatia', 'home_goal': 5}
+{'_id': 'Portugal', 'home_goal': 4}
+{'_id': 'Spain', 'home_goal': 3}
+{'_id': 'Korea Republic', 'home_goal': 3}
+{'_id': 'Nigeria', 'home_goal': 3}
+{'_id': 'Switzerland', 'home_goal': 2}
+{'_id': 'Sweden', 'home_goal': 2}
+{'_id': 'Germany', 'home_goal': 2}
+{'_id': 'Saudi Arabia', 'home_goal': 2}
+{'_id': 'Japan', 'home_goal': 2}
+{'_id': 'Colombia', 'home_goal': 2}
+{'_id': 'Poland', 'home_goal': 1}
+{'_id': 'Tunisia', 'home_goal': 1}
+{'_id': 'Serbia', 'home_goal': 1}
+Type "it" for more // MongoDB의 Shell은 전체 데이터 중 20개만 표시
+```
+
 ## References
 
 * https://velopert.com
