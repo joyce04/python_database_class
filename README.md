@@ -14,7 +14,7 @@
 
 0. Python3 설치 과정 안내
 
-     - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
+      - 배포판 (Anaconda) 설치 및 주피터(Jupyter Notebook) 활용 설명
 
 1. Python3 기본 문법 및 pixiedust를 활용한 주피터 내 디버깅
 
@@ -26,6 +26,7 @@
 2. Pandas, Numpy를 활용한 데이터 분석
 
    - Pandas
+     - Pandas 기초
      - Pandas를 활용한 선수들 소속 클럽 세어보기 (2018 축구 월드컵 선수 데이터)
      - Pandas를 활용한 영화 평점 데이터 분석하기 (MovieLens 데이터)
    - Numpy
