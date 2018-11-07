@@ -1,0 +1,65 @@
+away_team_id	away_team_score	home_team_id	home_team_score	id	match_date	match_location
+2	0	1	5	1	14 JUN 2018 18:00	Moscow / Luzhniki Stadium / RUS
+4	1	3	0	2	15 JUN 2018 17:00	Ekaterinburg / Ekaterinburg Arena / RUS
+6	3	5	3	3	15 JUN 2018 21:00	Sochi / Fisht Olympic Stadium / RUS
+8	1	7	0	4	15 JUN 2018 18:00	Saint Petersburg /
+10	1	9	2	5	16 JUN 2018 13:00	Kazan / Kazan Arena / RUS
+12	1	11	0	6	16 JUN 2018 19:00	Saransk / Mordovia Arena / RUS
+14	1	13	1	7	16 JUN 2018 16:00	Moscow / Spartak Stadium / RUS
+16	0	15	2	8	16 JUN 2018 21:00	Kaliningrad / Kaliningrad Stadium / RUS
+18	1	17	1	9	17 JUN 2018 21:00	Rostov-On-Don / Rostov Arena / RUS
+20	1	19	0	10	17 JUN 2018 16:00	Samara / Samara Arena / RUS
+22	1	21	0	11	17 JUN 2018 18:00	Moscow / Luzhniki Stadium / RUS
+24	0	23	1	12	18 JUN 2018 15:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+26	0	25	3	13	18 JUN 2018 18:00	Sochi / Fisht Olympic Stadium / RUS
+28	2	27	1	14	18 JUN 2018 21:00	Volgograd / Volgograd Arena / RUS
+30	2	29	1	15	19 JUN 2018 18:00	Moscow / Spartak Stadium / RUS
+32	2	31	1	16	19 JUN 2018 15:00	Saransk / Mordovia Arena / RUS
+3	1	1	3	17	19 JUN 2018 21:00	Saint Petersburg /
+2	0	4	1	18	20 JUN 2018 18:00	Rostov-On-Don / Rostov Arena / RUS
+7	0	5	1	19	20 JUN 2018 15:00	Moscow / Luzhniki Stadium / RUS
+6	1	8	0	20	20 JUN 2018 21:00	Kazan / Kazan Arena / RUS
+11	0	9	1	21	21 JUN 2018 20:00	Ekaterinburg / Ekaterinburg Arena / RUS
+10	1	12	1	22	21 JUN 2018 16:00	Samara / Samara Arena / RUS
+15	3	13	0	23	21 JUN 2018 21:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+14	0	16	2	24	22 JUN 2018 18:00	Volgograd / Volgograd Arena / RUS
+19	0	17	2	25	22 JUN 2018 15:00	Saint Petersburg /
+18	2	20	1	26	22 JUN 2018 20:00	Kaliningrad / Kaliningrad Stadium / RUS
+23	1	21	2	27	23 JUN 2018 21:00	Sochi / Fisht Olympic Stadium / RUS
+22	2	24	1	28	23 JUN 2018 18:00	Rostov-On-Don / Rostov Arena / RUS
+27	2	25	5	29	23 JUN 2018 15:00	Moscow / Spartak Stadium / RUS
+26	1	28	6	30	24 JUN 2018 15:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+31	3	29	0	31	24 JUN 2018 21:00	Kazan / Kazan Arena / RUS
+30	2	32	2	32	24 JUN 2018 20:00	Ekaterinburg / Ekaterinburg Arena / RUS
+1	0	4	3	33	25 JUN 2018 18:00	Samara / Samara Arena / RUS
+3	1	2	2	34	25 JUN 2018 17:00	Volgograd / Volgograd Arena / RUS
+5	1	8	1	35	25 JUN 2018 21:00	Saransk / Mordovia Arena / RUS
+7	2	6	2	36	25 JUN 2018 20:00	Kaliningrad / Kaliningrad Stadium / RUS
+9	0	12	0	37	26 JUN 2018 17:00	Moscow / Luzhniki Stadium / RUS
+11	2	10	0	38	26 JUN 2018 17:00	Sochi / Fisht Olympic Stadium / RUS
+13	2	16	1	39	26 JUN 2018 21:00	Saint Petersburg /
+15	2	14	1	40	26 JUN 2018 21:00	Rostov-On-Don / Rostov Arena / RUS
+17	2	20	0	41	27 JUN 2018 21:00	Moscow / Spartak Stadium / RUS
+19	2	18	2	42	27 JUN 2018 21:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+21	0	24	2	43	27 JUN 2018 17:00	Kazan / Kazan Arena / RUS
+23	3	22	0	44	27 JUN 2018 19:00	Ekaterinburg / Ekaterinburg Arena / RUS
+25	1	28	0	45	28 JUN 2018 20:00	Kaliningrad / Kaliningrad Stadium / RUS
+27	2	26	1	46	28 JUN 2018 21:00	Saransk / Mordovia Arena / RUS
+29	1	32	0	47	28 JUN 2018 17:00	Volgograd / Volgograd Arena / RUS
+31	1	30	0	48	28 JUN 2018 18:00	Samara / Samara Arena / RUS
+5	1	4	2	49	30 JUN 2018 21:00	Sochi / Fisht Olympic Stadium / RUS
+13	3	9	4	50	30 JUN 2018 17:00	Kazan / Kazan Arena / RUS
+1	1	6	1	51	01 JUL 2018 17:00	Moscow / Luzhniki Stadium / RUS
+12	1	15	1	52	01 JUL 2018 21:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+22	0	17	2	53	02 JUL 2018 18:00	Samara / Samara Arena / RUS
+32	2	25	3	54	02 JUL 2018 21:00	Rostov-On-Don / Rostov Arena / RUS
+18	0	23	1	55	03 JUL 2018 17:00	Saint Petersburg /
+28	1	31	1	56	03 JUL 2018 21:00	Moscow / Spartak Stadium / RUS
+9	2	4	0	57	06 JUL 2018 17:00	Nizhny Novgorod / Nizhny Novgorod Stadium / RUS
+25	2	17	1	58	06 JUL 2018 21:00	Kazan / Kazan Arena / RUS
+15	2	1	2	59	07 JUL 2018 21:00	Sochi / Fisht Olympic Stadium / RUS
+28	2	23	0	60	07 JUL 2018 18:00	Samara / Samara Arena / RUS
+25	0	9	1	61	10 JUL 2018 21:00	Saint Petersburg /
+28	1	15	2	62	11 JUL 2018 21:00	Moscow / Luzhniki Stadium / RUS
+28	0	25	2	63	14 JUL 2018 17:00	Saint Petersburg /
+15	2	9	4	64	15 JUL 2018 18:00	Moscow / Luzhniki Stadium / RUS
