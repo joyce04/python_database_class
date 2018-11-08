@@ -22,7 +22,7 @@
 
 * NoSQL의 쿼리 문법은 복잡하고, 기존 RDBMS에 익숙한 개발자 및 DBA 들에게는 매우 불편함을 야기
 * 대용량 데이터의 Insert 시 사실상 데이터베이스가 정지
-  * 대부분의 RDBMS가 Row 단위의 Lock을 사용하지만, Mongo DB 등 많은 NoSQL의 DB 단위의 Lock을 사용
+  * 대부분의 RDBMS가 Row 단위의 Lock을 사용하지만, Mongo DB 등 많은 NoSQL의 DB 단위의 Lock을 사용 -> Document 단위로 Lock을 활용할 수 있는 방법들이 소개되었음 (WiredTiger)
   * 또한, Write Lock과 Read Lock 중 Write Lock이 우선시되면서 Write 중에는 Read가 Queue에 대기
   * 즉, 많은 양의 데이터를 한번에 Insert 하면 해당 Insert가 종료되기 전까지 DB 접근이 불가능
 * MongoDB와 같은 Document DB의 경우 데이터 구조가 복잡해 질 수록 Nested Document가 계속 생성
