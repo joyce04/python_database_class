@@ -1,0 +1,737 @@
+id	country	num	name	club	birth	height	position
+1	Saudi Arabia	1	ABDULLAH ALMUAIOUF	Al Hilal (KSA)	23/01/87	178	GK
+2	Saudi Arabia	3	OSAMA HAWSAWI	Al Hilal (KSA)	31/03/84	188	DF
+3	Saudi Arabia	5	OMAR HAWSAWI	Al Nasr (KSA)	27/09/85	185	DF
+4	Saudi Arabia	6	MOHAMMED ALBURAYK	Al Hilal (KSA)	15/09/92	173	DF
+5	Saudi Arabia	7	SALMAN ALFARAJ	Al Hilal (KSA)	01/08/89	179	MF
+6	Saudi Arabia	8	YAHIA ALSHEHRI	Leganes (ESP)	26/06/90	165	MF
+7	Saudi Arabia	10	MOHAMMED ALSAHLAWI	Al Nasr (KSA)	10/01/87	179	FW
+8	Saudi Arabia	13	YASSER ALSHAHRANI	Al Hilal (KSA)	25/05/92	170	DF
+9	Saudi Arabia	14	ABDULLAH OTAYF	Al Hilal (KSA)	03/08/92	177	MF
+10	Saudi Arabia	17	TAISEER ALJASSAM	Al Ahli (KSA)	25/07/84	169	MF
+11	Saudi Arabia	18	SALEM ALDAWSARI	Villarreal CF (ESP)	19/08/91	174	MF
+12	Saudi Arabia	9	HATAN BAHBRI	Al Shabab (KSA)	16/07/92	170	MF
+13	Saudi Arabia	19	FAHAD ALMUWALLAD	Levante UD (ESP)	14/09/94	168	FW
+14	Saudi Arabia	20	MUHANNAD ASIRI	Al Ahli (KSA)	14/10/86	185	FW
+15	Russia	1	Igor AKINFEEV	CSKA Moskva (RUS)	08/04/86	185	GK
+16	Russia	2	MARIO FERNANDES	CSKA Moskva (RUS)	19/09/90	187	DF
+17	Russia	3	Ilya KUTEPOV	Spartak Moskva (RUS)	29/07/93	190	DF
+18	Russia	4	Sergey IGNASHEVICH	CSKA Moskva (RUS)	14/07/79	186	DF
+19	Russia	8	Iury GAZINSKY	Krasnodar (RUS)	20/07/89	180	MF
+20	Russia	9	Alan DZAGOEV	CSKA Moskva (RUS)	17/06/90	178	MF
+21	Russia	10	Fedor SMOLOV	Krasnodar (RUS)	09/02/90	185	FW
+22	Russia	11	Roman ZOBNIN	Spartak Moskva (RUS)	11/02/94	185	MF
+23	Russia	17	Aleksandr GOLOVIN	CSKA Moskva (RUS)	30/05/96	178	MF
+24	Russia	18	Yury ZHIRKOV	Zenit St. Petersburg (RUS)	20/08/83	180	MF
+25	Russia	19	Alexander SAMEDOV	Spartak Moskva (RUS)	19/07/84	178	MF
+26	Russia	6	Denis CHERYSHEV	Villarreal CF (ESP)	26/12/90	173	MF
+27	Russia	7	Daler KUZIAEV	Zenit St. Petersburg (RUS)	15/01/93	182	MF
+28	Russia	22	Artem DZYUBA	Arsenal Tula (RUS)	22/08/88	196	FW
+29	Egypt	23	MOHAMED ELSHENAWY	Al Ahly Cairo (EGY)	18/12/88	191	GK
+30	Egypt	2	ALI GABR	West Bromwich Albion. (ENG)	01/01/89	191	DF
+31	Egypt	6	AHMED HEGAZY	West Bromwich Albion. (ENG)	25/01/91	194	DF
+32	Egypt	7	AHMED FATHI	Al Ahly Cairo (EGY)	10/11/84	176	DF
+33	Egypt	8	TAREK HAMED	Zamalek (EGY)	24/10/88	169	MF
+34	Egypt	9	MARWAN MOHSEN	Al Ahly Cairo (EGY)	26/02/89	185	FW
+35	Egypt	13	MOHAMED ABDELSHAFY	Al Fath (KSA)	01/07/85	171	DF
+36	Egypt	17	MOHAMED ELNENY	Arsenal (ENG)	11/07/92	181	MF
+37	Egypt	19	ABDALLA SAID	Kuopion Palloseura (FIN)	13/07/85	176	MF
+38	Egypt	21	TREZEGUET	Kasimpasa SK (TUR)	01/10/94	181	MF
+39	Egypt	22	AMR WARDA	Atromitos FC (GRE)	17/09/93	179	FW
+40	Egypt	5	SAM MORSY	Wigan Athletic (ENG)	10/09/91	173	MF
+41	Egypt	11	KAHRABA	Al Ittifaq (KSA)	13/04/94	182	FW
+42	Egypt	14	RAMADAN SOBHY	Stoke (ENG)	23/01/97	183	FW
+43	Uruguay	1	Fernando MUSLERA	Galatasaray (TUR)	16/06/86	190	GK
+44	Uruguay	2	Jose GIMENEZ	Atlético Madrid (ESP)	20/01/95	185	DF
+45	Uruguay	3	Diego GODIN	Atlético Madrid (ESP)	16/02/86	185	DF
+46	Uruguay	4	Guillermo VARELA	Peñarol (URU)	24/03/93	173	DF
+47	Uruguay	6	Rodrigo BENTANCUR	Juventus (ITA)	25/06/97	187	MF
+48	Uruguay	8	Nahitan NANDEZ	Boca Juniors (ARG)	28/12/95	171	MF
+49	Uruguay	9	Luis SUAREZ	FC Barcelona (ESP)	24/01/87	182	FW
+50	Uruguay	10	Giorgian DE ARRASCAETA	Cruzeiro (BRA)	01/06/94	172	FW
+51	Uruguay	15	Matias VECINO	Internazionale (ITA)	24/08/91	189	MF
+52	Uruguay	21	Edinson CAVANI	Paris Saint-Germain (FRA)	14/02/87	188	FW
+53	Uruguay	22	Martin CACERES	Lazio (ITA)	07/04/87	178	DF
+54	Uruguay	5	Carlos SANCHEZ	Monterrey (MEX)	02/12/84	171	MF
+55	Uruguay	7	Cristian RODRIGUEZ	Peñarol (URU)	30/09/85	178	MF
+56	Uruguay	14	Lucas TORREIRA	Sampdoria (ITA)	11/02/96	168	MF
+57	Spain	1	David DE GEA	Manchester United (ENG)	07/11/90	190	GK
+58	Spain	3	Gerard PIQUE	FC Barcelona (ESP)	02/02/87	194	DF
+59	Spain	4	NACHO	Real Madrid (ESP)	18/01/90	179	DF
+60	Spain	5	Sergio BUSQUETS	FC Barcelona (ESP)	16/07/88	189	MF
+61	Spain	6	Andres INIESTA	FC Barcelona (ESP)	11/05/84	171	MF
+62	Spain	8	KOKE	Atlético Madrid (ESP)	08/01/92	176	MF
+63	Spain	15	Sergio RAMOS	Real Madrid (ESP)	30/03/86	183	DF
+64	Spain	18	Jordi ALBA	FC Barcelona (ESP)	21/03/89	170	DF
+65	Spain	19	Diego COSTA	Atlético Madrid (ESP)	07/10/88	185	FW
+66	Spain	21	David SILVA	Manchester City (ENG)	08/01/86	170	FW
+67	Spain	22	ISCO	Real Madrid (ESP)	21/04/92	176	MF
+68	Spain	10	THIAGO	Bayern München (GER)	11/04/91	174	MF
+69	Spain	11	Lucas VAZQUEZ	Real Madrid (ESP)	01/07/91	173	FW
+70	Spain	17	Iago ASPAS	Celta (ESP)	01/08/87	176	FW
+71	Portugal	1	RUI PATRICIO	Sporting CP (POR)	15/02/88	189	GK
+72	Portugal	3	PEPE	Besiktas (TUR)	26/02/83	188	DF
+73	Portugal	5	RAPHAEL GUERREIRO	Borussia Dortmund (GER)	22/12/93	170	DF
+74	Portugal	6	JOSE FONTE	Dalian Yifang Footba. (CHN)	22/12/83	191	DF
+75	Portugal	7	CRISTIANO RONALDO	Real Madrid (ESP)	05/02/85	185	FW
+76	Portugal	8	JOAO MOUTINHO	AS Monaco (FRA)	08/09/86	170	MF
+77	Portugal	11	BERNARDO SILVA	Manchester City (ENG)	10/08/94	173	MF
+78	Portugal	14	WILLIAM	Sporting CP (POR)	07/04/92	190	MF
+79	Portugal	16	BRUNO FERNANDES	Sporting CP (POR)	08/09/94	183	MF
+80	Portugal	17	GONCALO GUEDES	Valencia CF (ESP)	29/11/96	179	FW
+81	Portugal	21	CEDRIC	Southampton (ENG)	31/08/91	172	DF
+82	Portugal	9	ANDRE SILVA	AC Milan (ITA)	06/11/95	184	FW
+83	Portugal	10	JOAO MARIO	West Ham United (ENG)	19/01/93	179	MF
+84	Portugal	20	RICARDO QUARESMA	Besiktas (TUR)	26/09/83	175	FW
+85	IR Iran	1	Ali BEIRANVAND	Persepolis Football. (IRN)	21/09/92	194	GK
+86	IR Iran	3	Ehsan HAJI SAFI	Olympiacos (GRE)	25/02/90	178	DF
+87	IR Iran	4	Roozbeh CHESHMI	Esteghlal Tehran (IRN)	24/07/93	192	DF
+88	IR Iran	7	Masoud SHOJAEI	AEK Athinai (GRE)	09/06/84	187	MF
+89	IR Iran	8	Morteza POURALIGANJI	Al Sadd (QAT)	19/04/92	187	DF
+90	IR Iran	9	Omid EBRAHIMI	Esteghlal Tehran (IRN)	16/09/87	178	MF
+91	IR Iran	10	Karim ANSARIFARD	Olympiacos (GRE)	03/04/90	187	FW
+92	IR Iran	11	Vahid AMIRI	Persepolis Football. (IRN)	02/04/88	179	MF
+93	IR Iran	18	Alireza JAHANBAKHSH	AZ (NED)	11/08/93	180	FW
+94	IR Iran	20	Sardar AZMOUN	Rubin Kazan (RUS)	01/01/95	186	FW
+95	IR Iran	23	Ramin REZAEIAN	KV Oostende (BEL)	21/03/90	185	DF
+96	IR Iran	14	Saman GHODDOS	IFK Östersund FK (SWE)	06/09/93	177	FW
+97	IR Iran	17	Mehdi TAREMI	Al Gharrafa (QAT)	18/07/92	187	FW
+98	IR Iran	19	Majid HOSSEINI	Esteghlal Tehran (IRN)	20/06/96	183	DF
+99	Morocco	12	Monir EL KAJOUI	Numancia (ESP)	10/05/89	190	GK
+100	Morocco	2	Achraf HAKIMI	Real Madrid (ESP)	04/11/98	179	DF
+101	Morocco	5	Mehdi BENATIA	Juventus (ITA)	17/04/87	188	DF
+102	Morocco	6	Ghanem SAISS	Wolverhampton (ENG)	26/03/90	190	DF
+103	Morocco	7	Hakim ZIYACH	Ajax (NED)	19/03/93	180	MF
+104	Morocco	8	Karim EL AHMADI	Feyenoord (NED)	27/01/85	179	MF
+105	Morocco	9	Ayoub EL KAABI	Renaissance Sportive.(MAR)	25/06/93	182	FW
+106	Morocco	10	Younes BELHANDA	Galatasaray (TUR)	25/02/90	174	MF
+107	Morocco	14	Mbark BOUSSOUFA	Al Jazeira (UAE)	15/08/84	167	MF
+108	Morocco	16	Noureddine AMRABAT	Leganes (ESP)	31/03/87	178	MF
+109	Morocco	18	Amine HARIT	Schalke 04 (GER)	18/06/97	179	MF
+110	Morocco	4	Manuel DA COSTA	Istanbul Başakşehir .(TUR)	06/05/86	187	DF
+111	Morocco	20	Aziz BOUHADDOUZ	St. Pauli (GER)	30/03/87	188	FW
+112	Morocco	21	Sofyan AMRABAT	Feyenoord (NED)	21/08/96	183	MF
+113	Australia	1	Mathew RYAN	Brighton (ENG)	08/04/92	184	GK
+114	Australia	5	Mark MILLIGAN	Al Ahli (KSA)	04/08/85	178	DF
+115	Australia	7	Mathew LECKIE	Hertha BSC (GER)	04/02/91	181	FW
+116	Australia	10	Robbie KRUSE	VfL Bochum (GER)	05/10/88	180	FW
+117	Australia	11	Andrew NABBOUT	Urawa Reds (JPN)	17/12/92	178	FW
+118	Australia	13	Aaron MOOY	Huddersfield (ENG)	15/09/90	173	MF
+119	Australia	15	Mile JEDINAK	Aston Villa (ENG)	03/08/84	188	MF
+120	Australia	16	Aziz BEHICH	Bursaspor (TUR)	16/12/90	170	DF
+121	Australia	19	Joshua RISDON	Western Sydney Wande. (AUS)	27/07/92	169	DF
+122	Australia	20	Trent SAINSBURY	Grasshoppers (SUI)	05/01/92	183	DF
+123	Australia	23	Tom ROGIC	Celtic (SCO)	16/12/92	189	MF
+124	Australia	9	Tomi JURIC	FC Luzern (SUI)	22/07/91	190	FW
+125	Australia	17	Daniel ARZANI	Melbourne City Footb. (AUS)	04/01/99	171	FW
+126	Australia	22	Jackson IRVINE	Hull City (ENG)	07/03/93	180	MF
+127	France	1	Hugo LLORIS	Tottenham Hotspur (ENG)	26/12/86	188	GK
+128	France	2	Benjamin PAVARD	VfB Stuttgart (GER)	28/03/96	186	DF
+129	France	4	Raphael VARANE	Real Madrid (ESP)	25/04/93	191	DF
+130	France	5	Samuel UMTITI	FC Barcelona (ESP)	14/11/93	183	DF
+131	France	6	Paul POGBA	Manchester United (ENG)	15/03/93	191	MF
+132	France	7	Antoine GRIEZMANN	Atlético Madrid (ESP)	21/03/91	174	FW
+133	France	10	Kylian MBAPPE	Paris Saint-Germain (FRA)	20/12/98	178	FW
+134	France	11	Ousmane DEMBELE	FC Barcelona (ESP)	15/05/97	178	FW
+135	France	12	Corentin TOLISSO	Bayern München (GER)	03/08/94	180	MF
+136	France	13	Ngolo KANTE	Chelsea (ENG)	29/03/91	168	MF
+137	France	21	Lucas HERNANDEZ	Atlético Madrid (ESP)	14/02/96	183	DF
+138	France	9	Olivier GIROUD	Chelsea (ENG)	30/09/86	193	FW
+139	France	14	Blaise MATUIDI	Juventus (ITA)	09/04/87	180	MF
+140	France	18	Nabil FEKIR	Olympique Lyon (FRA)	18/07/93	173	FW
+141	Denmark	1	Kasper SCHMEICHEL	Leicester (ENG)	05/11/86	190	GK
+142	Denmark	4	Simon KJAER	Sevilla FC (ESP)	26/03/89	191	DF
+143	Denmark	6	Andreas CHRISTENSEN	Chelsea (ENG)	10/04/96	192	DF
+144	Denmark	7	William KVIST	FC København (DEN)	24/02/85	185	MF
+145	Denmark	8	Thomas DELANEY	Werder Bremen (GER)	03/09/91	180	MF
+146	Denmark	9	Nicolai JORGENSEN	Feyenoord (NED)	15/01/91	194	FW
+147	Denmark	10	Christian ERIKSEN	Tottenham Hotspur (ENG)	14/02/92	181	MF
+148	Denmark	14	Henrik DALSGAARD	Brentford (ENG)	27/07/89	190	DF
+149	Denmark	17	Jens Stryger LARSEN	Udinese (ITA)	21/02/91	182	DF
+150	Denmark	20	Yussuf Yurary POULSEN	RasenBallsport Leipz. (GER)	15/06/94	193	FW
+151	Denmark	23	Pione SISTO	Celta (ESP)	04/02/95	173	FW
+152	Denmark	11	Martin BRAITHWAITE	Girondins Bordeaux (FRA)	05/06/91	180	FW
+153	Denmark	13	Mathias JORGENSEN	Huddersfield (ENG)	23/04/90	191	DF
+154	Denmark	19	Lasse SCHONE	Ajax (NED)	27/05/86	178	MF
+155	Peru	1	Pedro GALLESE	Veracruz (MEX)	23/02/90	189	GK
+156	Peru	2	Alberto RODRIGUEZ	Junior (COL)	31/03/84	179	DF
+157	Peru	6	Miguel TRAUCO	Flamengo (BRA)	25/08/92	169	DF
+158	Peru	8	Christian CUEVA	São Paulo (BRA)	23/11/91	169	MF
+159	Peru	10	Jefferson FARFAN	Lokomotiv Moskva (RUS)	26/10/84	177	FW
+160	Peru	13	Renato TAPIA	Feyenoord (NED)	28/07/95	185	MF
+161	Peru	15	Christian RAMOS	Veracruz (MEX)	04/11/88	182	DF
+162	Peru	17	Luis ADVINCULA	Club de Fútbol Lobos. (MEX)	02/03/90	178	DF
+163	Peru	18	Andre CARRILLO	Watford (ENG)	14/06/91	182	FW
+164	Peru	19	Yoshimar YOTUN	Orlando City SC (USA)	07/04/90	172	MF
+165	Peru	20	Edison FLORES	AaB (DEN)	14/05/94	170	FW
+166	Peru	9	Paolo GUERRERO	Flamengo (BRA)	01/01/84	185	FW
+167	Peru	11	Raul RUIDIAZ	Monarcas Morelia (MEX)	25/07/90	169	FW
+168	Peru	23	Pedro AQUINO	Club de Fútbol Lobos. (MEX)	13/04/95	174	MF
+169	Argentina	23	Wilfredo CABALLERO	Chelsea (ENG)	28/09/81	186	GK
+170	Argentina	3	Nicolas TAGLIAFICO	Ajax (NED)	31/08/92	169	DF
+171	Argentina	5	Lucas BIGLIA	AC Milan (ITA)	30/01/86	175	MF
+172	Argentina	10	Lionel MESSI	FC Barcelona (ESP)	24/06/87	170	FW
+173	Argentina	11	Angel DI MARIA	Paris Saint-Germain (FRA)	14/02/88	178	MF
+174	Argentina	13	Maximiliano MEZA	Independiente (ARG)	15/12/92	180	MF
+175	Argentina	14	Javier MASCHERANO	Hebei Huabei (CHN)	08/06/84	174	DF
+176	Argentina	16	Marcos ROJO	Manchester United (ENG)	20/03/90	189	DF
+177	Argentina	17	Nicolas OTAMENDI	Manchester City (ENG)	12/02/88	181	DF
+178	Argentina	18	Eduardo SALVIO	Benfica (POR)	13/07/90	167	DF
+179	Argentina	19	Sergio AGUERO	Manchester City (ENG)	02/06/88	172	FW
+180	Argentina	7	Ever BANEGA	Sevilla FC (ESP)	29/06/88	175	MF
+181	Argentina	9	Gonzalo HIGUAIN	Juventus (ITA)	10/12/87	184	FW
+182	Argentina	22	Cristian PAVON	Boca Juniors (ARG)	21/01/96	169	MF
+183	Iceland	1	Hannes HALLDORSSON	Randers FC (DEN)	27/04/84	193	GK
+184	Iceland	2	Birkir SAEVARSSON	Valur (ISL)	11/11/84	186	DF
+185	Iceland	6	Ragnar SIGURDSSON	FK Rostov (RUS)	19/06/86	187	DF
+186	Iceland	7	Johann GUDMUNDSSON	Burnley (ENG)	27/10/90	179	MF
+187	Iceland	8	Birkir BJARNASON	Aston Villa (ENG)	27/05/88	183	MF
+188	Iceland	10	Gylfi SIGURDSSON	Everton (ENG)	08/09/89	186	MF
+189	Iceland	11	Alfred FINNBOGASON	FC Augsburg (GER)	01/02/89	185	FW
+190	Iceland	14	Kari ARNASON	Aberdeen (SCO)	13/10/82	191	DF
+191	Iceland	17	Aron GUNNARSSON	Cardiff City (WAL)	22/04/89	181	MF
+192	Iceland	18	Hordur MAGNUSSON	Bristol City (ENG)	11/02/93	191	DF
+193	Iceland	20	Emil HALLFREDSSON	Udinese (ITA)	29/06/84	186	MF
+194	Iceland	9	Bjorn SIGURDARSON	FK Rostov (RUS)	26/02/91	187	FW
+195	Iceland	19	Rurik GISLASON	Sportverein Sandhaus. (GER)	25/02/88	184	MF
+196	Iceland	23	Ari SKULASON	Lokeren (BEL)	14/05/87	170	DF
+197	Croatia	23	Danijel SUBASIC	AS Monaco (FRA)	27/10/84	191	GK
+198	Croatia	2	Sime VRSALJKO	Atlético Madrid (ESP)	10/01/92	181	DF
+199	Croatia	3	Ivan STRINIC	Sampdoria (ITA)	17/07/87	186	DF
+200	Croatia	4	Ivan PERISIC	Internazionale (ITA)	02/02/89	186	FW
+201	Croatia	6	Dejan LOVREN	Liverpool (ENG)	05/07/89	188	DF
+202	Croatia	7	Ivan RAKITIC	FC Barcelona (ESP)	10/03/88	184	MF
+203	Croatia	9	Andrej KRAMARIC	1899 Hoffenheim (GER)	19/06/91	177	FW
+204	Croatia	10	Luka MODRIC	Real Madrid (ESP)	09/09/85	172	MF
+205	Croatia	17	Mario MANDZUKIC	Juventus (ITA)	21/05/86	190	FW
+206	Croatia	18	Ante REBIC	Eintracht Frankfurt (GER)	21/09/93	185	FW
+207	Croatia	21	Domagoj VIDA	Besiktas (TUR)	29/04/89	184	DF
+208	Croatia	8	Mateo KOVACIC	Real Madrid (ESP)	06/05/94	178	MF
+209	Croatia	11	Marcelo BROZOVIC	Internazionale (ITA)	16/11/92	181	MF
+210	Croatia	20	Marko PJACA	Schalke 04 (GER)	06/05/95	186	FW
+211	Nigeria	23	Francis UZOHO	Deportivo La Coruña (ESP)	28/10/98	196	GK
+212	Nigeria	2	Bryan IDOWU	FK Amkar Perm (RUS)	18/05/92	179	DF
+213	Nigeria	4	Wilfred NDIDI	Leicester (ENG)	16/12/96	184	MF
+214	Nigeria	5	William EKONG	Bursaspor (TUR)	01/09/93	191	DF
+215	Nigeria	6	Leon BALOGUN	Mainz 05 (GER)	28/06/88	190	DF
+216	Nigeria	8	Oghenekaro ETEBO	Las Palmas (ESP)	09/11/95	174	MF
+217	Nigeria	9	Odion IGHALO	Changchun Yatai (CHN)	16/06/89	188	FW
+218	Nigeria	10	John Obi MIKEL	Tianjin Teda (CHN)	22/04/87	188	MF
+219	Nigeria	11	Victor MOSES	Chelsea (ENG)	12/12/90	177	FW
+220	Nigeria	12	Abdullahi SHEHU	Bursaspor (TUR)	12/03/93	182	DF
+221	Nigeria	18	Alex IWOBI	Arsenal (ENG)	03/05/96	185	FW
+222	Nigeria	7	Ahmed MUSA	CSKA Moskva (RUS)	14/10/92	173	FW
+223	Nigeria	13	Simeon NWANKWO	Crotone FC (ITA)	07/05/92	197	FW
+224	Nigeria	14	Kelechi IHEANACHO	Leicester (ENG)	10/03/96	183	FW
+225	Brazil	1	ALISSON	AS Roma (ITA)	02/10/92	193	GK
+226	Brazil	2	THIAGO SILVA	Paris Saint-Germain (FRA)	22/09/84	183	DF
+227	Brazil	3	MIRANDA	Internazionale (ITA)	07/09/84	186	DF
+228	Brazil	5	CASEMIRO	Real Madrid (ESP)	23/02/92	185	MF
+229	Brazil	9	GABRIEL JESUS	Manchester City (ENG)	03/04/97	175	FW
+230	Brazil	10	NEYMAR	Paris Saint-Germain (FRA)	05/02/92	175	FW
+231	Brazil	11	PHILIPPE COUTINHO	FC Barcelona (ESP)	12/06/92	172	MF
+232	Brazil	12	MARCELO	Real Madrid (ESP)	12/05/88	174	DF
+233	Brazil	14	DANILO	Manchester City (ENG)	15/07/91	184	DF
+234	Brazil	15	PAULINHO	FC Barcelona (ESP)	25/07/88	181	MF
+235	Brazil	19	WILLIAN	Chelsea (ENG)	09/08/88	175	MF
+236	Brazil	8	RENATO AUGUSTO	Beijing Guoan (CHN)	08/02/88	186	MF
+237	Brazil	17	FERNANDINHO	Manchester City (ENG)	04/05/85	179	MF
+238	Brazil	20	ROBERTO FIRMINO	Liverpool (ENG)	02/10/91	181	FW
+239	Switzerland	1	Yann SOMMER	Borussia Moenchengla. (GER)	17/12/88	183	GK
+240	Switzerland	2	Stephan LICHTSTEINER	Juventus (ITA)	16/01/84	181	DF
+241	Switzerland	5	Manuel AKANJI	Borussia Dortmund (GER)	19/07/95	186	DF
+242	Switzerland	9	Haris SEFEROVIC	Benfica (POR)	22/02/92	186	FW
+243	Switzerland	10	Granit XHAKA	Arsenal (ENG)	27/09/92	183	MF
+244	Switzerland	11	Valon BEHRAMI	Udinese (ITA)	19/04/85	184	MF
+245	Switzerland	13	Ricardo RODRIGUEZ	AC Milan (ITA)	25/08/92	180	DF
+246	Switzerland	14	Steven ZUBER	1899 Hoffenheim (GER)	17/08/91	182	MF
+247	Switzerland	15	Blerim DZEMAILI	Bologna (ITA)	12/04/86	180	MF
+248	Switzerland	22	Fabian SCHAER	Deportivo La Coruña (ESP)	20/12/91	186	DF
+249	Switzerland	23	Xherdan SHAQIRI	Stoke (ENG)	10/10/91	169	MF
+250	Switzerland	6	Michael LANG	FC Basel (SUI)	08/02/91	185	DF
+251	Switzerland	7	Breel EMBOLO	Schalke 04 (GER)	14/02/97	184	FW
+252	Switzerland	17	Denis ZAKARIA	Borussia Moenchengla. (GER)	20/11/96	189	MF
+253	Costa Rica	1	Keylor NAVAS	Real Madrid (ESP)	15/12/86	185	GK
+254	Costa Rica	2	Johnny ACOSTA	Águilas Doradas Rion. (COL)	21/07/83	176	DF
+255	Costa Rica	3	Giancarlo GONZALEZ	Bologna (ITA)	08/02/88	186	DF
+256	Costa Rica	5	Celso BORGES	Deportivo La Coruña (ESP)	27/05/88	187	MF
+257	Costa Rica	6	Oscar DUARTE	RCD Espanyol (ESP)	03/06/89	186	DF
+258	Costa Rica	10	Bryan RUIZ	Sporting CP (POR)	18/08/85	187	MF
+259	Costa Rica	11	Johan VENEGAS	Saprissa (CRC)	27/11/88	183	FW
+260	Costa Rica	15	Francisco CALVO	Minnesota (USA)	08/07/92	180	DF
+261	Costa Rica	16	Cristian GAMBOA	Celtic (SCO)	24/10/89	175	DF
+262	Costa Rica	20	David GUZMAN	Portland Timbers (USA)	18/02/90	176	MF
+263	Costa Rica	21	Marcos URENA	Los Angeles Football. (USA)	05/03/90	181	FW
+264	Costa Rica	7	Christian BOLANOS	Saprissa (CRC)	17/05/84	178	MF
+265	Costa Rica	9	Daniel COLINDRES	Saprissa (CRC)	10/01/85	180	MF
+266	Costa Rica	12	Joel CAMPBELL	Real Betis (ESP)	26/06/92	178	FW
+267	Serbia	1	Vladimir STOJKOVIC	Partizan Beograd (SRB)	28/07/83	195	GK
+268	Serbia	3	Dusko TOSIC	Besiktas (TUR)	19/01/85	185	DF
+269	Serbia	4	Luka MILIVOJEVIC	Crystal Palace (ENG)	07/04/91	186	MF
+270	Serbia	6	Branislav IVANOVIC	Zenit St. Petersburg (RUS)	22/02/84	185	DF
+271	Serbia	9	Aleksandar MITROVIC	Fulham (ENG)	16/09/94	189	FW
+272	Serbia	10	Dusan TADIC	Southampton (ENG)	20/11/88	181	MF
+273	Serbia	11	Aleksandar KOLAROV	AS Roma (ITA)	10/11/85	187	DF
+274	Serbia	15	Nikola MILENKOVIC	Fiorentina (ITA)	12/10/97	195	DF
+275	Serbia	20	Sergej MILINKOVIC-SAVIC	Lazio (ITA)	27/02/95	192	MF
+276	Serbia	21	Nemanja MATIC	Manchester United (ENG)	01/08/88	194	MF
+277	Serbia	22	Adem LJAJIC	Torino (ITA)	29/09/91	182	MF
+278	Serbia	2	Antonio RUKAVINA	Villarreal CF (ESP)	26/01/84	177	DF
+279	Serbia	8	Aleksandar PRIJOVIC	PAOK (GRE)	21/04/90	191	FW
+280	Serbia	17	Filip KOSTIC	Hamburger SV (GER)	01/11/92	184	MF
+281	Germany	1	Manuel NEUER	Bayern München (GER)	27/03/86	193	GK
+282	Germany	2	Marvin PLATTENHARDT	Hertha BSC (GER)	26/01/92	181	DF
+283	Germany	5	Mats HUMMELS	Bayern München (GER)	16/12/88	192	DF
+284	Germany	6	Sami KHEDIRA	Juventus (ITA)	04/04/87	189	MF
+285	Germany	7	Julian DRAXLER	Paris Saint-Germain (FRA)	20/09/93	185	MF
+286	Germany	8	Toni KROOS	Real Madrid (ESP)	04/01/90	182	MF
+287	Germany	9	Timo WERNER	RasenBallsport Leipz. (GER)	06/03/96	181	FW
+288	Germany	10	Mesut OEZIL	Arsenal (ENG)	15/10/88	180	MF
+289	Germany	13	Thomas MUELLER	Bayern München (GER)	13/09/89	186	MF
+290	Germany	17	Jerome BOATENG	Bayern München (GER)	03/09/88	192	DF
+291	Germany	18	Joshua KIMMICH	Bayern München (GER)	08/02/95	176	DF
+292	Germany	11	Marco REUS	Borussia Dortmund (GER)	31/05/89	180	FW
+293	Germany	20	Julian BRANDT	Bayer Leverkusen (GER)	02/05/96	183	MF
+294	Germany	23	Mario GOMEZ	VfB Stuttgart (GER)	10/07/85	189	FW
+295	Mexico	13	Guillermo OCHOA	Standard Liège (BEL)	13/07/85	185	GK
+296	Mexico	2	Hugo AYALA	Tigres (MEX)	31/03/87	188	DF
+297	Mexico	3	Carlos SALCEDO	Eintracht Frankfurt (GER)	29/09/93	189	DF
+298	Mexico	7	Miguel LAYUN	Sevilla FC (ESP)	25/06/88	180	MF
+299	Mexico	11	Carlos VELA	Los Angeles Football. (USA)	01/03/89	178	FW
+300	Mexico	14	Javier HERNANDEZ	West Ham United (ENG)	01/06/88	175	FW
+301	Mexico	15	Hector MORENO	Real Sociedad (ESP)	17/01/88	182	DF
+302	Mexico	16	Hector HERRERA	FC Porto (POR)	19/04/90	180	DF
+303	Mexico	18	Andres GUARDADO	Real Betis (ESP)	28/09/86	167	MF
+304	Mexico	22	Hirving LOZANO	PSV (NED)	30/07/95	176	FW
+305	Mexico	23	Jesus GALLARDO	Pumas UNAM (MEX)	15/08/94	177	MF
+306	Mexico	4	Rafael MARQUEZ	Atlas (MEX)	13/02/79	184	DF
+307	Mexico	9	Raul JIMENEZ	Benfica (POR)	05/05/91	188	FW
+308	Mexico	21	Edson ALVAREZ	America (MEX)	24/10/97	186	DF
+309	Korea Republic	23	JO Hyeonwoo	Daegu FC (KOR)	25/09/91	189	GK
+310	Korea Republic	2	LEE Yong	Jeonbuk Motors (KOR)	24/12/86	180	DF
+311	Korea Republic	6	PARK Jooho	Ulsan Hyundai (KOR)	16/01/87	174	DF
+312	Korea Republic	7	SON Heungmin	Tottenham Hotspur (ENG)	08/07/92	183	FW
+313	Korea Republic	9	KIM Shinwook	Jeonbuk Motors (KOR)	14/04/88	197	FW
+314	Korea Republic	11	HWANG Heechan	Red Bull Salzburg (AUT)	26/01/96	177	FW
+315	Korea Republic	13	KOO Jacheol	FC Augsburg (GER)	27/02/89	182	MF
+316	Korea Republic	16	KI Sungyueng	Swansea City (WAL)	24/01/89	186	MF
+317	Korea Republic	17	LEE Jaesung	Jeonbuk Motors (KOR)	10/08/92	180	MF
+318	Korea Republic	19	KIM Younggwon	Guangzhou Evergrande. (CHN)	27/02/90	184	DF
+319	Korea Republic	20	JANG Hyunsoo	FC Tokyo (JPN)	28/09/91	187	DF
+320	Korea Republic	10	LEE Seungwoo	Verona (ITA)	06/01/98	170	MF
+321	Korea Republic	12	KIM Minwoo	Sangmu (KOR)	25/02/90	172	DF
+322	Korea Republic	15	JUNG Wooyoung	Vissel Kobe (JPN)	14/12/89	186	MF
+323	Sweden	1	Robin OLSEN	FC København (DEN)	08/01/90	198	GK
+324	Sweden	2	Mikael LUSTIG	Celtic (SCO)	13/12/86	189	DF
+325	Sweden	4	Andreas GRANQVIST	Krasnodar (RUS)	16/04/85	192	DF
+326	Sweden	6	Ludwig AUGUSTINSSON	Werder Bremen (GER)	21/04/94	181	DF
+327	Sweden	7	Sebastian LARSSON	Hull City (ENG)	06/06/85	178	MF
+328	Sweden	8	Albin EKDAL	Hamburger SV (GER)	28/07/89	186	MF
+329	Sweden	9	Marcus BERG	Al Ain (UAE)	17/08/86	183	FW
+330	Sweden	10	Emil FORSBERG	RasenBallsport Leipz. (GER)	23/10/91	179	MF
+331	Sweden	17	Viktor CLAESSON	Krasnodar (RUS)	02/01/92	183	MF
+332	Sweden	18	Pontus JANSSON	Leeds (ENG)	13/02/91	194	DF
+333	Sweden	20	Ola TOIVONEN	Toulouse FC (FRA)	03/07/86	192	FW
+334	Sweden	13	Gustav SVENSSON	Seattle Sounders (USA)	07/02/87	183	MF
+335	Sweden	15	Oscar HILJEMARK	Genoa (ITA)	28/06/92	184	MF
+336	Sweden	22	Isaac Kiese THELIN	Beveren (BEL)	24/06/92	189	FW
+337	Belgium	1	Thibaut COURTOIS	Chelsea (ENG)	11/05/92	199	GK
+338	Belgium	2	Toby ALDERWEIRELD	Tottenham Hotspur (ENG)	02/03/89	186	DF
+339	Belgium	5	Jan VERTONGHEN	Tottenham Hotspur (ENG)	24/04/87	189	DF
+340	Belgium	6	Axel WITSEL	Tianjin Quanjian Foo. (CHN)	12/01/89	186	MF
+341	Belgium	7	Kevin DE BRUYNE	Manchester City (ENG)	28/06/91	181	MF
+342	Belgium	9	Romelu LUKAKU	Manchester United (ENG)	13/05/93	190	FW
+343	Belgium	10	Eden HAZARD	Chelsea (ENG)	07/01/91	173	FW
+344	Belgium	11	Yannick CARRASCO	Dalian Yifang Footba. (CHN)	04/09/93	180	MF
+345	Belgium	14	Dries MERTENS	SSC Napoli (ITA)	06/05/87	169	FW
+346	Belgium	15	Thomas MEUNIER	Paris Saint-Germain (FRA)	12/09/91	190	DF
+347	Belgium	20	Dedryck BOYATA	Celtic (SCO)	28/11/90	188	DF
+348	Belgium	16	Thorgan HAZARD	Borussia Moenchengla. (GER)	29/03/93	174	MF
+349	Belgium	19	Moussa DEMBELE	Tottenham Hotspur (ENG)	16/07/87	185	MF
+350	Belgium	22	Nacer CHADLI	West Bromwich Albion. (ENG)	02/08/89	187	MF
+351	Panama	1	Jaime PENEDO	Dinamo Bucuresti (ROU)	26/09/81	183	GK
+352	Panama	2	Michael MURILLO	New York (USA)	11/02/96	183	DF
+353	Panama	4	Fidel ESCOBAR	New York (USA)	09/01/95	182	DF
+354	Panama	5	Roman TORRES	Seattle Sounders (USA)	20/03/86	188	DF
+355	Panama	6	Gabriel GOMEZ	Bucaramanga (COL)	29/05/84	183	MF
+356	Panama	7	Blas PEREZ	Municipal (GUA)	13/03/81	187	FW
+357	Panama	8	Edgar BARCENAS	Club de Fútbol Cafet. (MEX)	23/10/93	175	MF
+358	Panama	11	Armando COOPER	Universidad de Chile (CHI)	26/11/87	173	MF
+359	Panama	15	Eric DAVIS	DAC Dunajska Streda (SVK)	31/03/91	180	DF
+360	Panama	20	Anibal GODOY	San Jose Earthquakes (USA)	10/02/90	183	MF
+361	Panama	21	Jose Luis RODRIGUEZ	AA Gent (BEL)	19/06/98	180	MF
+362	Panama	9	Gabriel TORRES	Huachipato (CHI)	31/10/88	180	FW
+363	Panama	10	Ismael DIAZ	Deportivo La Coruña (ESP)	12/05/97	181	FW
+364	Panama	18	Luis TEJADA	Sport Boys Associati. (PER)	28/03/82	183	FW
+365	England	1	Jordan PICKFORD	Everton (ENG)	07/03/94	185	GK
+366	England	2	Kyle WALKER	Manchester City (ENG)	28/05/90	178	DF
+367	England	5	John STONES	Manchester City (ENG)	28/05/94	188	DF
+368	England	6	Harry MAGUIRE	Leicester (ENG)	05/03/93	193	DF
+369	England	7	Jesse LINGARD	Manchester United (ENG)	15/12/92	175	MF
+370	England	8	Jordan HENDERSON	Liverpool (ENG)	17/06/90	183	MF
+371	England	9	Harry KANE	Tottenham Hotspur (ENG)	28/07/93	188	FW
+372	England	10	Raheem STERLING	Manchester City (ENG)	08/12/94	170	FW
+373	England	12	Kieran TRIPPIER	Tottenham Hotspur (ENG)	19/09/90	178	DF
+374	England	18	Ashley YOUNG	Manchester United (ENG)	09/07/85	175	DF
+375	England	20	Dele ALLI	Tottenham Hotspur (ENG)	11/04/96	188	MF
+376	England	4	Eric DIER	Tottenham Hotspur (ENG)	15/01/94	188	MF
+377	England	19	Marcus RASHFORD	Manchester United (ENG)	31/10/97	180	FW
+378	England	21	Ruben LOFTUS-CHEEK	Chelsea (ENG)	23/01/96	190	MF
+379	Tunisia	22	Mouez HASSEN	Chateauroux (FRA)	05/03/95	186	GK
+380	Tunisia	2	Syam BEN YOUSSEF	Kasimpasa SK (TUR)	31/03/89	189	DF
+381	Tunisia	4	Yassine MERIAH	CS Sfaxien (TUN)	02/07/93	183	DF
+382	Tunisia	8	Fakhreddine BEN YOUSSEF	Al Ittifaq (KSA)	23/06/91	189	FW
+383	Tunisia	9	Anice BADRI	Esperance (TUN)	18/09/90	178	MF
+384	Tunisia	10	Wahbi KHAZRI	Rennes (FRA)	08/02/91	182	FW
+385	Tunisia	11	Dylan BRONN	AA Gent (BEL)	19/06/95	186	DF
+386	Tunisia	12	Ali MAALOUL	Al Ahly Cairo (EGY)	01/01/90	170	DF
+387	Tunisia	13	Ferjani SASSI	Al Nasr (KSA)	18/03/92	186	MF
+388	Tunisia	17	Ellyes SKHIRI	Montpellier (FRA)	10/05/95	185	MF
+389	Tunisia	23	Naim SLITI	Dijon (FRA)	27/07/92	173	FW
+390	Tunisia	1	Farouk BEN MUSTAPHA	Al Shabab (KSA)	01/07/89	192	GK
+391	Tunisia	14	Mohamed BEN AMOR	Al Ahli (KSA)	03/05/92	180	MF
+392	Tunisia	19	Saber KHALIFA	Club Africain (TUN)	14/10/86	185	FW
+393	Poland	1	Wojciech SZCZESNY	Juventus (ITA)	18/04/90	195	GK
+394	Poland	2	Michal PAZDAN	Legia Warszawa (POL)	21/09/87	181	DF
+395	Poland	4	Thiago CIONEK	Spal Ferrara (ITA)	21/04/86	184	DF
+396	Poland	7	Arkadiusz MILIK	SSC Napoli (ITA)	28/02/94	186	FW
+397	Poland	9	Robert LEWANDOWSKI	Bayern München (GER)	21/08/88	185	FW
+398	Poland	10	Grzegorz KRYCHOWIAK	West Bromwich Albion. (ENG)	29/01/90	186	MF
+399	Poland	11	Kamil GROSICKI	Hull City (ENG)	08/06/88	180	MF
+400	Poland	13	Maciej RYBUS	Lokomotiv Moskva (RUS)	19/08/89	173	MF
+401	Poland	16	Jakub BLASZCZYKOWSKI	VfL Wolfsburg (GER)	14/12/85	175	MF
+402	Poland	19	Piotr ZIELINSKI	SSC Napoli (ITA)	20/05/94	177	MF
+403	Poland	20	Lukasz PISZCZEK	Borussia Dortmund (GER)	03/06/85	184	DF
+404	Poland	5	Jan BEDNAREK	Southampton (ENG)	12/04/96	189	DF
+405	Poland	18	Bartosz BERESZYNSKI	Sampdoria (ITA)	12/07/92	182	DF
+406	Poland	23	Dawid KOWNACKI	Sampdoria (ITA)	14/03/97	185	FW
+407	Senegal	16	Khadim NDIAYE	Horoya Athlétique Cl. (GUI)	05/04/85	185	GK
+408	Senegal	3	Kalidou KOULIBALY	SSC Napoli (ITA)	20/06/91	195	DF
+409	Senegal	5	Idrissa Gana GUEYE	Everton (ENG)	26/09/89	174	MF
+410	Senegal	6	Salif SANE	Hannover 96 (GER)	25/08/90	196	MF
+411	Senegal	9	Mame DIOUF	Stoke (ENG)	16/12/87	185	FW
+412	Senegal	10	Sadio MANE	Liverpool (ENG)	10/04/92	175	FW
+413	Senegal	12	Youssouf SABALY	Girondins Bordeaux (FRA)	05/03/93	174	DF
+414	Senegal	13	Alfred NDIAYE	Wolverhampton (ENG)	06/03/90	186	MF
+415	Senegal	18	Ismaila SARR	Rennes (FRA)	25/02/98	175	FW
+416	Senegal	19	Mbaye NIANG	Torino (ITA)	19/12/94	184	FW
+417	Senegal	22	Moussa WAGUE	Eupen (BEL)	04/10/98	177	DF
+418	Senegal	8	Cheikhou KOUYATE	West Ham United (ENG)	21/12/89	189	MF
+419	Senegal	11	Cheikh NDOYE	Birmingham City (ENG)	29/03/86	192	MF
+420	Senegal	14	Moussa KONATE	Amiens (FRA)	03/04/93	180	FW
+421	Colombia	1	David OSPINA	Arsenal (ENG)	31/08/88	183	GK
+422	Colombia	3	Oscar MURILLO	CF Pachuca (MEX)	18/04/88	184	DF
+423	Colombia	4	Santiago ARIAS	PSV (NED)	13/01/92	177	DF
+424	Colombia	6	Carlos SANCHEZ	RCD Espanyol (ESP)	06/02/86	182	MF
+425	Colombia	9	Radamel FALCAO	AS Monaco (FRA)	10/02/86	177	FW
+426	Colombia	11	Juan CUADRADO	Juventus (ITA)	26/05/88	179	MF
+427	Colombia	16	Jefferson LERMA	Levante UD (ESP)	25/10/94	179	MF
+428	Colombia	17	Johan MOJICA	Girona Futbol Club (ESP)	21/08/92	185	DF
+429	Colombia	20	Juan QUINTERO	River Plate (ARG)	18/01/93	169	MF
+430	Colombia	21	Jose IZQUIERDO	Brighton (ENG)	07/07/92	171	FW
+431	Colombia	23	Davinson SANCHEZ	Tottenham Hotspur (ENG)	12/06/96	187	DF
+432	Colombia	5	Wilmar BARRIOS	Boca Juniors (ARG)	16/10/93	178	MF
+433	Colombia	7	Carlos BACCA	Villarreal CF (ESP)	08/09/86	181	FW
+434	Colombia	10	James RODRIGUEZ	Bayern München (GER)	12/07/91	180	MF
+435	Japan	1	Eiji KAWASHIMA	FC Metz (FRA)	20/03/83	185	GK
+436	Japan	3	Gen SHOJI	Kashima Antlers (JPN)	11/12/92	182	DF
+437	Japan	5	Yuto NAGATOMO	Galatasaray (TUR)	12/09/86	170	DF
+438	Japan	7	Gaku SHIBASAKI	Getafe CF (ESP)	28/05/92	175	MF
+439	Japan	8	Genki HARAGUCHI	Fortuna Duesseldorf (GER)	09/05/91	178	MF
+440	Japan	10	Shinji KAGAWA	Borussia Dortmund (GER)	17/03/89	175	MF
+441	Japan	14	Takashi INUI	Eibar (ESP)	02/06/88	169	MF
+442	Japan	15	Yuya OSAKO	FC Köln (GER)	18/05/90	182	FW
+443	Japan	17	Makoto HASEBE	Eintracht Frankfurt (GER)	18/01/84	180	MF
+444	Japan	19	Hiroki SAKAI	Olympique Marseille (FRA)	12/04/90	183	DF
+445	Japan	22	Maya YOSHIDA	Southampton (ENG)	24/08/88	189	DF
+446	Japan	4	Keisuke HONDA	CF Pachuca (MEX)	13/06/86	182	MF
+447	Japan	9	Shinji OKAZAKI	Leicester (ENG)	16/04/86	174	FW
+448	Japan	16	Hotaru YAMAGUCHI	Cerezo Osaka (JPN)	06/10/90	173	MF
+449	Egypt	10	MOHAMED SALAH	Liverpool (ENG)	15/06/92	175	FW
+450	Russia	13	Fedor KUDRIASHOV	Rubin Kazan (RUS)	05/04/87	187	DF
+451	Saudi Arabia	22	MOHAMMED ALOWAIS	Al Ahli (KSA)	10/10/91	187	GK
+452	Saudi Arabia	4	ALI ALBULAYHI	Al Hilal (KSA)	21/11/89	182	DF
+453	Saudi Arabia	12	MOHAMED KANNO	Al Hilal (KSA)	22/09/94	192	MF
+454	Saudi Arabia	16	HUSSAIN ALMOQAHWI	Al Ahli (KSA)	24/03/88	174	MF
+455	Uruguay	17	Diego LAXALT	Genoa (ITA)	07/02/93	178	MF
+456	Morocco	13	Khalid BOUTAIB	Malatyaspor (TUR)	24/04/87	190	FW
+457	Morocco	17	Nabil DIRAR	Fenerbahçe (TUR)	25/02/86	187	DF
+458	Morocco	11	Faycal FAJR	Getafe CF (ESP)	01/08/88	178	MF
+459	Morocco	23	Mehdi CARCELA	Standard Liège (BEL)	01/07/89	176	MF
+460	Portugal	18	GELSON MARTINS	Sporting CP (POR)	11/05/95	173	FW
+461	Portugal	23	ADRIEN SILVA	Leicester (ENG)	15/03/89	176	MF
+462	Spain	2	Dani CARVAJAL	Real Madrid (ESP)	11/01/92	173	DF
+463	Spain	9	RODRIGO	Valencia CF (ESP)	06/03/91	182	FW
+464	Spain	20	Marco ASENSIO	Real Madrid (ESP)	21/01/96	182	MF
+465	IR Iran	6	Saeid EZATOLAHI	FK Amkar Perm (RUS)	01/10/96	190	MF
+466	IR Iran	5	Milad MOHAMMADI	Republican Football . (RUS)	29/09/93	178	DF
+467	France	15	Steven NZONZI	Sevilla FC (ESP)	15/12/88	197	MF
+468	Peru	4	Anderson SANTAMARIA	Puebla FC (MEX)	10/01/92	183	DF
+469	Denmark	21	Andreas CORNELIUS	Atalanta Bergamo (ITA)	16/03/93	195	FW
+470	Argentina	2	Gabriel MERCADO	Sevilla FC (ESP)	18/03/87	181	DF
+471	Argentina	8	Marcos ACUNA	Sporting CP (POR)	28/10/91	172	DF
+472	Argentina	15	Enzo PEREZ	River Plate (ARG)	22/02/86	178	MF
+473	Argentina	21	Paulo DYBALA	Juventus (ITA)	15/11/93	177	FW
+474	Croatia	5	Vedran CORLUKA	Lokomotiv Moskva (RUS)	05/02/86	192	DF
+475	Iceland	22	Jon BODVARSSON	Reading (ENG)	25/05/92	189	FW
+476	Iceland	5	Sverrir INGASON	FK Rostov (RUS)	05/08/93	188	DF
+477	Nigeria	22	Kenneth OMERUO	Kasimpasa SK (TUR)	17/10/93	185	DF
+478	Nigeria	21	Tyronne EBUEHI	ADO Den Haag (NED)	16/12/95	187	DF
+479	Brazil	22	FAGNER	Sport Club Corinthia. (BRA)	11/06/89	168	DF
+480	Brazil	7	DOUGLAS COSTA	Juventus (ITA)	14/09/90	182	FW
+481	Costa Rica	8	Bryan OVIEDO	Sunderland (ENG)	18/02/90	172	DF
+482	Costa Rica	17	Yeltsin TEJEDA	Lausanne (SUI)	17/03/92	179	MF
+483	Serbia	18	Nemanja RADONJIC	Crvena Zvezda (SRB)	15/02/96	185	FW
+484	Switzerland	18	Mario GAVRANOVIC	Dinamo Zagreb (CRO)	24/11/89	175	FW
+485	Switzerland	19	Josip DRMIC	Borussia Moenchengla. (GER)	08/08/92	184	FW
+486	Germany	3	Jonas HECTOR	FC Köln (GER)	27/05/90	185	DF
+487	Germany	16	Antonio RUEDIGER	Chelsea (ENG)	03/03/93	191	DF
+488	Germany	19	Sebastian RUDY	Bayern München (GER)	28/02/90	179	MF
+489	Germany	21	Ilkay GUENDOGAN	Manchester City (ENG)	24/10/90	180	MF
+490	Sweden	3	Victor LINDELOF	Manchester United (ENG)	17/07/94	187	DF
+491	Sweden	11	John GUIDETTI	Alavés (ESP)	15/04/92	185	FW
+492	Sweden	21	Jimmy DURMAZ	Toulouse FC (FRA)	22/03/89	180	MF
+493	Korea Republic	8	JU Sejong	Asan Mugunghwa Footb. (KOR)	30/10/90	176	MF
+494	Korea Republic	18	MOON Seonmin	Incheon United (KOR)	09/06/92	172	MF
+495	Korea Republic	14	HONG Chul	Sangmu (KOR)	17/09/90	176	DF
+496	Mexico	10	Giovani DOS SANTOS	LA Galaxy (USA)	11/05/89	178	MF
+497	Mexico	17	Jesus CORONA	FC Porto (POR)	06/01/93	174	MF
+498	Belgium	8	Marouane FELLAINI	Manchester United (ENG)	22/11/87	194	MF
+499	Belgium	17	Youri TIELEMANS	AS Monaco (FRA)	07/05/97	176	MF
+500	Belgium	21	Michy BATSHUAYI	Borussia Dortmund (GER)	02/10/93	185	FW
+501	Tunisia	7	Saifeddine KHAOUI	Troyes (FRA)	27/04/95	180	FW
+502	Tunisia	3	Yohan BEN ALOUANE	Leicester (ENG)	28/03/87	185	DF
+503	Tunisia	21	Hamdi NAGUEZ	Zamalek (EGY)	28/10/92	186	DF
+504	England	3	Danny ROSE	Tottenham Hotspur (ENG)	02/07/90	173	DF
+505	England	11	Jamie VARDY	Leicester (ENG)	11/01/87	178	FW
+506	England	17	Fabian DELPH	Manchester City (ENG)	21/11/89	174	DF
+507	Panama	16	Abdiel ARROYO	Alajuelense (CRC)	13/12/93	183	FW
+508	Panama	19	Ricardo AVILA	AA Gent (BEL)	04/02/97	182	MF
+509	Panama	23	Felipe BALOY	Municipal (GUA)	24/02/81	185	DF
+510	Colombia	8	Abel AGUILAR	Cali (COL)	06/01/85	185	MF
+511	Colombia	13	Yerry MINA	FC Barcelona (ESP)	23/09/94	194	DF
+512	Colombia	15	Mateus URIBE	America (MEX)	21/03/91	182	MF
+513	Poland	6	Jacek GORALSKI	PFC Ludogorets Razgr. (BGR)	21/09/92	172	MF
+514	Poland	14	Lukasz TEODORCZYK	Anderlecht (BEL)	03/06/91	185	FW
+515	Poland	15	Kamil GLIK	AS Monaco (FRA)	03/02/88	190	DF
+516	Japan	11	Takashi USAMI	Fortuna Duesseldorf (GER)	06/05/92	178	MF
+517	Senegal	17	Pape Alioune NDIAYE	Stoke (ENG)	27/10/90	181	MF
+518	Russia	15	Alexey MIRANCHUK	Lokomotiv Moskva (RUS)	17/10/95	185	MF
+519	Russia	23	Igor SMOLNIKOV	Zenit St. Petersburg (RUS)	08/08/88	179	DF
+520	Uruguay	19	Sebastian COATES	Sporting CP (POR)	07/10/90	196	DF
+521	Uruguay	18	Maximiliano GOMEZ	Celta (ESP)	14/08/96	186	FW
+522	Egypt	1	ESSAM ELHADARY	Al Taawoun Football. (KSA)	15/01/73	190	GK
+524	Saudi Arabia	21	YASSER ALMOSAILEM	Al Ahli (KSA)	27/02/84	186	GK
+525	Saudi Arabia	23	MOTAZ HAWSAWI	Al Ahli (KSA)	17/02/92	180	DF
+526	Morocco	19	Youssef EN NESYRI	Malaga (ESP)	01/06/97	188	FW
+527	Denmark	12	Kasper DOLBERG	Ajax (NED)	06/10/97	187	FW
+528	Denmark	15	Viktor FISCHER	FC København (DEN)	09/06/94	181	FW
+529	Denmark	18	Lukas LERAGER	Girondins Bordeaux (FRA)	12/07/93	186	MF
+530	France	16	Steve MANDANDA	Olympique Marseille (FRA)	28/03/85	187	GK
+531	France	3	Presnel KIMPEMBE	Paris Saint-Germain (FRA)	13/08/95	182	DF
+532	France	8	Thomas LEMAR	AS Monaco (FRA)	12/11/95	172	FW
+533	France	19	Djibril SIDIBE	AS Monaco (FRA)	29/07/92	184	DF
+534	France	22	Benjamin MENDY	Manchester City (ENG)	17/07/94	183	DF
+535	Australia	4	Tim CAHILL	Millwall (ENG)	06/12/79	180	FW
+536	Peru	7	Paolo HURTADO	Guimaraes (POR)	27/07/90	174	MF
+537	Peru	16	Wilder CARTAGENA	Veracruz (MEX)	23/09/94	179	MF
+538	Argentina	12	Franco ARMANI	River Plate (ARG)	16/10/86	189	GK
+539	Croatia	12	Lovre KALINIC	AA Gent (BEL)	03/04/90	201	GK
+540	Croatia	13	Tin JEDVAJ	Bayer Leverkusen (GER)	28/11/95	184	DF
+541	Croatia	15	Duje CALETA-CAR	Red Bull Salzburg (AUT)	17/09/96	192	DF
+542	Croatia	19	Milan BADELJ	Fiorentina (ITA)	25/02/89	186	MF
+543	Croatia	22	Josip PIVARIC	Dynamo Kyiv (UKR)	30/01/89	176	DF
+544	Croatia	14	Filip BRADARIC	NK Rijeka (CRO)	11/01/92	186	MF
+545	Iceland	4	Albert GUDMUNDSSON	PSV (NED)	15/06/97	177	MF
+546	Iceland	21	Arnor TRAUSTASON	Malmö FF (SWE)	30/04/93	183	MF
+547	Brazil	6	FILIPE LUIS	Atlético Madrid (ESP)	09/08/85	182	DF
+548	Serbia	13	Milos VELJKOVIC	Werder Bremen (GER)	26/09/95	188	DF
+549	Serbia	7	Andrija ZIVKOVIC	Benfica (POR)	11/07/96	169	MF
+550	Serbia	19	Luka JOVIC	Eintracht Frankfurt (GER)	23/12/97	181	FW
+551	Costa Rica	19	Kendall WASTON	Vancouver Whitecaps (CAN)	01/01/88	196	DF
+552	Costa Rica	4	Ian SMITH	Norrkoping (SWE)	06/03/98	177	DF
+553	Costa Rica	13	Rodney WALLACE	New York City Footba. (USA)	17/06/88	180	MF
+554	Costa Rica	14	Randall AZOFEIFA	Herediano (CRC)	30/12/84	182	MF
+555	Germany	14	Leon GORETZKA	Schalke 04 (GER)	06/02/95	189	MF
+556	Germany	15	Niklas SUELE	Bayern München (GER)	03/09/95	195	DF
+557	Korea Republic	5	YUN Youngsun	Seongnam Ilhwa Chunm. (KOR)	04/10/88	185	DF
+558	Korea Republic	22	GO Yohan	FC Seoul (KOR)	10/03/88	170	DF
+559	Mexico	8	Marco FABIAN	Eintracht Frankfurt (GER)	21/07/89	171	FW
+560	Mexico	19	Oribe PERALTA	America (MEX)	12/01/84	178	FW
+561	Belgium	3	Thomas VERMAELEN	FC Barcelona (ESP)	14/11/85	183	DF
+562	Belgium	18	Adnan JANUZAJ	Real Sociedad (ESP)	05/02/95	180	FW
+563	Belgium	23	Leander DENDONCKER	Anderlecht (BEL)	15/04/95	188	DF
+564	Belgium	4	Vincent KOMPANY	Manchester City (ENG)	10/04/86	190	DF
+565	England	15	Gary CAHILL	Chelsea (ENG)	19/12/85	191	DF
+566	England	16	Phil JONES	Manchester United (ENG)	21/02/92	182	DF
+567	England	22	Trent ALEXANDER-ARNOLD	Liverpool (ENG)	07/10/98	175	DF
+568	England	14	Danny WELBECK	Arsenal (ENG)	26/11/90	184	FW
+569	Panama	13	Adolfo MACHADO	Houston Dynamo (USA)	14/02/85	182	DF
+570	Panama	17	Luis OVALLE	Olimpia (HON)	07/09/88	178	DF
+571	Panama	3	Harold CUMMINGS	San Jose Earthquakes (USA)	01/03/92	183	DF
+572	Tunisia	16	Aymen MATHLOUTHI	Al Batin Football Cl. (KSA)	14/09/84	182	GK
+573	Tunisia	5	Oussama HADDADI	Dijon (FRA)	28/01/92	185	DF
+574	Tunisia	6	Rami BEDOUI	ES du Sahel (TUN)	19/01/90	187	DF
+575	Tunisia	20	Ghaylen CHAALELI	Esperance (TUN)	28/02/94	179	FW
+576	Tunisia	15	Ahmed KHALIL	Club Africain (TUN)	21/12/94	187	FW
+577	Tunisia	18	Bassem SRARFI	OGC Nice (FRA)	25/06/97	176	FW
+578	Japan	13	Yoshinori MUTO	Mainz 05 (GER)	15/07/92	179	FW
+579	Japan	20	Tomoaki MAKINO	Urawa Reds (JPN)	11/05/87	182	DF
+580	Japan	21	Gotoku SAKAI	Hamburger SV (GER)	14/03/91	176	DF
+581	Poland	22	Lukasz FABIANSKI	Swansea City (WAL)	18/04/85	190	GK
+582	Poland	3	Artur JEDRZEJCZYK	Legia Warszawa (POL)	04/11/87	189	DF
+583	Poland	21	Rafal KURZAWA	Górnik Zabrze (POL)	29/01/93	182	MF
+584	Poland	17	Slawomir PESZKO	Lechia Gdansk (POL)	19/02/85	173	MF
+585	Colombia	14	Luis MURIEL	Sevilla FC (ESP)	16/04/91	178	FW
+586	Colombia	19	Miguel BORJA	Palmeiras (BRA)	26/01/93	183	FW
+587	Senegal	20	Keita BALDE	AS Monaco (FRA)	08/03/95	181	FW
+588	Senegal	21	Lamine GASSAMA	Adanaspor (TUR)	20/10/89	181	DF
+589	Senegal	15	Diafra SAKHO	Rennes (FRA)	24/12/89	184	FW
+590	Portugal	15	RICARDO	FC Porto (POR)	06/10/93	174	DF
+591	Portugal	4	MANUEL FERNANDES	Lokomotiv Moskva (RUS)	05/02/86	174	MF
+592	Uruguay	11	Cristhian STUANI	Girona Futbol Club (ESP)	12/10/86	186	FW
+593	Argentina	6	Federico FAZIO	AS Roma (ITA)	17/03/87	199	DF
+594	France	20	Florian THAUVIN	Olympique Marseille (FRA)	26/01/93	180	FW
+595	Russia	14	Vladimir GRANAT	Rubin Kazan (RUS)	22/05/87	184	DF
+596	Russia	21	Aleksandr EROKHIN	Zenit St. Petersburg (RUS)	13/10/89	191	MF
+597	Denmark	5	Jonas KNUDSEN	Ipswich Town (ENG)	16/09/92	187	DF
+598	Denmark	2	Michael KROHN-DEHLI	Deportivo La Coruña (ESP)	06/06/83	171	MF
+599	Brazil	13	MARQUINHOS	Paris Saint-Germain  (FRA)	14/05/94	183	DF
+600	Mexico	6	Jonathan DOS SANTOS	LA Galaxy (USA)	26/04/90	173	MF
+601	Switzerland	20	Johan DJOUROU	Antalyaspor (TUR)	18/01/87	192	DF
+602	Sweden	5	Martin OLSSON	Swansea City (WAL)	17/05/88	177	DF
+603	Sweden	16	Emil KRAFTH	Bologna (ITA)	02/08/94	181	DF
+604	Colombia	2	Cristian ZAPATA	AC Milan (ITA)	30/09/86	187	DF
+605	Uruguay	20	Jonathan URRETAVISCAYA	Monterrey (MEX)	19/03/90	172	FW
+670	Russia	5	Andrey SEMENOV	Republican Football. (RUS)	24/03/89	191	DF
+671	Russia	12	Andrei LUNEV	Zenit St. Petersburg (RUS)	13/11/91	189	GK
+672	Russia	16	Anton MIRANCHUK	Lokomotiv Moskva (RUS)	17/10/95	182	MF
+673	Russia	20	Vladimir GABULOV	Club Brugge (BEL)	19/10/83	190	GK
+674	Saudi Arabia	2	MANSOUR ALHARBI	Al Ahli (KSA)	19/10/87	173	DF
+675	Saudi Arabia	11	ABDULMALEK ALKHAIBRI	Al Hilal (KSA)	13/03/86	177	MF
+676	Saudi Arabia	15	ABDULLAH ALKHAIBARI	Al Shabab (KSA)	16/08/96	175	MF
+677	Egypt	3	AHMED ELMOHAMADY	Aston Villa (ENG)	09/09/87	183	DF
+678	Egypt	4	OMAR GABER	Los Angeles Football. (USA)	30/01/92	175	MF
+679	Egypt	12	AYMAN ASHRAF	Al Ahly Cairo (EGY)	09/04/91	176	DF
+680	Egypt	15	MAHMOUD HAMDY	Zamalek (EGY)	01/06/95	173	DF
+681	Egypt	16	SHERIF EKRAMY	Al Ahly Cairo (EGY)	10/07/83	193	GK
+682	Egypt	18	SHIKABALA	Al-Raed Sports Club (KSA)	05/03/86	183	FW
+683	Egypt	20	SAMIR SAAD	Al Masry (EGY)	01/04/89	183	DF
+684	Uruguay	12	Martin CAMPANA	Independiente (ARG)	29/05/89	184	GK
+685	Uruguay	13	Gaston SILVA	Independiente (ARG)	05/03/94	185	DF
+686	Uruguay	16	Maximiliano PEREIRA	FC Porto (POR)	08/06/84	173	DF
+687	Uruguay	23	Martin SILVA	Clube de Regatas Vas. (BRA)	25/03/83	187	GK
+688	Portugal	2	BRUNO ALVES	Rangers (SCO)	27/11/81	187	DF
+689	Portugal	12	ANTHONY LOPES	Olympique Lyon (FRA)	01/10/90	184	GK
+690	Portugal	13	RUBEN DIAS	Benfica (POR)	14/05/97	187	DF
+691	Portugal	19	MARIO RUI	SSC Napoli (ITA)	27/05/91	168	DF
+692	Portugal	22	BETO	Goztepespor (TUR)	01/05/82	183	GK
+693	Spain	7	SAUL	Atlético Madrid (ESP)	21/11/94	183	MF
+694	Spain	12	Alvaro ODRIOZOLA	Real Sociedad (ESP)	14/12/95	178	DF
+695	Spain	13	Kepa ARRIZABALAGA	Athletic Club (ESP)	03/10/94	189	GK
+696	Spain	14	Cesar AZPILICUETA	Chelsea (ENG)	28/08/89	178	DF
+697	Spain	16	Nacho MONREAL	Arsenal (ENG)	26/02/86	179	DF
+698	Spain	23	Pepe REINA	SSC Napoli (ITA)	31/08/82	188	GK
+699	Morocco	1	Yassine BOUNOU	Girona Futbol Club (ESP)	05/04/91	190	GK
+700	Morocco	3	Hamza MENDYL	Lille OSC (FRA)	21/10/97	179	DF
+701	Morocco	15	Youssef AIT BENNASSER	Caen (FRA)	07/07/96	184	MF
+702	Morocco	22	Ahmed TAGNAOUTI	IRT Tanger (MAR)	05/04/96	186	GK
+703	IR Iran	2	Mehdi TORABI	Saipa (IRN)	10/09/94	185	MF
+704	IR Iran	12	Rashid MAZAHERI	Zob Ahan Isfahan FC (IRN)	18/05/89	192	GK
+705	IR Iran	13	Mohammad Reza KHANZADEH	Padideh Khorasan Foo. (IRN)	11/05/91	186	DF
+706	IR Iran	15	Pejman MONTAZERI	Esteghlal Tehran (IRN)	06/09/83	185	DF
+707	IR Iran	16	Reza GHOOCHANNEJHAD	sc Heerenveen (NED)	20/09/87	180	FW
+708	IR Iran	21	Ashkan DEJAGAH	Nottingham Forest FC (ENG)	05/07/86	181	FW
+709	IR Iran	22	Amir ABEDZADEH	CS Marítimo (POR)	26/04/93	186	GK
+710	France	17	Adil RAMI	Olympique Marseille (FRA)	27/12/85	190	DF
+711	France	23	Alphonse AREOLA	Paris Saint-Germain (FRA)	27/02/93	195	GK
+712	Australia	2	Milos DEGENEK	Yokohama F Marinos  (JPN)	28/04/94	187	DF
+713	Australia	3	James MEREDITH	Millwall (ENG)	05/04/88	179	DF
+714	Australia	6	Matthew JURMAN	Suwon Samsung Bluewi. (KOR)	08/12/89	190	DF
+715	Australia	8	Massimo LUONGO	Queens Park Rangers (ENG)	25/09/92	176	MF
+716	Australia	12	Brad JONES	Feyenoord (NED)	19/03/82	193	GK
+717	Australia	14	Jamie MACLAREN	Hibernian (SCO)	29/07/93	178	FW
+718	Australia	18	Danny VUKOVIC	Racing Genk (BEL)	27/03/85	187	GK
+719	Australia	21	Dimitrios PETRATOS	Newcastle Jets  (AUS)	10/11/92	176	FW
+720	Peru	3	Aldo CORZO	Universitario (PER)	20/05/89	172	DF
+721	Peru	5	Miguel ARAUJO	Alianza Lima (PER)	24/10/94	178	DF
+722	Peru	12	Carlos CACEDA	Club Centro Deportiv. (PER)	27/09/91	184	GK
+723	Peru	14	Andy POLO	Portland Timbers (USA)	29/09/94	174	MF
+724	Peru	21	Jose CARVALLO	Universidad Técnica . (PER)	01/03/86	182	GK
+725	Peru	22	Nilson LOYOLA	Foot Ball Club Melga. (PER)	26/10/94	179	DF
+726	Denmark	3	Jannik VESTERGAARD	Borussia Moenchengla. (GER)	03/08/92	200	DF
+727	Denmark	16	Jonas LOSSL	Huddersfield (ENG)	01/02/89	195	GK
+728	Denmark	22	Frederik RONNOW	Brøndby IF (DEN)	04/08/92	190	GK
+729	Argentina	1	Nahuel GUZMAN	Tigres (MEX)	10/02/86	192	GK
+730	Argentina	4	Cristian ANSALDI	Torino (ITA)	20/09/86	181	DF
+731	Argentina	20	Giovani LO CELSO	Paris Saint-Germain (FRA)	09/04/96	177	MF
+732	Iceland	3	Samuel FRIDJONSSON	Vålerenga Fotball (NOR)	22/02/96	185	MF
+733	Iceland	12	Frederik SCHRAM	Roskilde BK (DEN)	19/01/95	198	GK
+734	Iceland	13	Runar RUNARSSON	FC Nordsjælland (DEN)	18/02/95	186	GK
+735	Iceland	15	Holmar EYJOLFSSON	Levski Sofia (BUL)	06/08/90	188	DF
+736	Iceland	16	Olafur SKULASON	Karabukspor (TUR)	01/04/83	184	MF
+737	Croatia	1	Dominik LIVAKOVIC	Dinamo Zagreb (CRO)	09/01/95	188	GK
+738	Croatia	16	Nikola KALINIC	AC Milan (ITA)	05/01/88	187	FW
+739	Nigeria	1	Ikechukwu EZENWA	Enyimba (NGA)	16/10/88	181	GK
+740	Nigeria	3	Elderson ECHIEJILE	Cercle Brugge (BEL)	20/01/88	185	DF
+741	Nigeria	15	Joel OBI	Torino (ITA)	22/05/91	177	MF
+742	Nigeria	16	Daniel AKPEYI	Chippa United FC (RSA)	08/03/86	187	GK
+743	Nigeria	17	Ogenyi ONAZI	Trabzonspor (TUR)	25/12/92	172	MF
+744	Nigeria	19	John OGU	Hapoel Beer Sheva (ISR)	20/04/88	191	MF
+745	Nigeria	20	Chidozie AWAZIEM	Nantes (FRA)	01/01/97	192	DF
+746	Brazil	4	PEDRO GEROMEL	Grêmio (BRA)	21/09/85	190	DF
+747	Brazil	16	CASSIO	Sport Club Corinthia.  (BRA)	06/06/87	195	GK
+748	Brazil	21	TAISON	Shakhtar Donetsk  (UKR)	13/01/88	172	FW
+749	Brazil	23	EDERSON	Manchester City (ENG)	17/08/93	188	GK
+750	Brazil	18	FRED	Shakhtar Donetsk  (UKR)	05/03/93	169	MF
+751	Switzerland	3	Francois MOUBANDJE	Toulouse FC (FRA)	21/06/90	180	DF
+752	Switzerland	4	Nico ELVEDI	Borussia Moenchengla. (GER)	30/09/96	187	DF
+753	Switzerland	8	Remo FREULER	Atalanta Bergamo (ITA)	15/04/92	181	MF
+754	Switzerland	12	Yvon MVOGO	RasenBallsport Leipz. (GER)	06/06/94	186	GK
+755	Switzerland	16	Gelson FERNANDES	Eintracht Frankfurt (GER)	02/09/86	180	MF
+756	Switzerland	21	Roman BUERKI	Borussia Dortmund (GER)	14/11/90	188	GK
+757	Costa Rica	18	Patrick PEMBERTON	Alajuelense (CRC)	24/04/82	178	GK
+758	Costa Rica	22	Kenner GUTIERREZ	Alajuelense (CRC)	09/06/89	178	DF
+759	Costa Rica	23	Leonel MOREIRA	Herediano (CRC)	02/04/90	179	GK
+760	Serbia	5	Uros SPAJIC	Anderlecht (BEL)	13/02/93	188	DF
+761	Serbia	12	Predrag RAJKOVIC	Maccabi Tel Aviv (ISR)	31/10/95	191	GK
+762	Serbia	14	Milan RODIC	Crvena Zvezda (SRB)	02/04/91	185	DF
+763	Serbia	16	Marko GRUJIC	Cardiff City (WAL)	13/04/96	190	MF
+764	Serbia	23	Marko DMITROVIC	Eibar (ESP)	24/01/92	194	GK
+765	Germany	4	Matthias GINTER	Borussia Moenchengla. (GER)	19/01/94	189	DF
+766	Germany	12	Kevin TRAPP	Paris Saint-Germain (FRA)	08/07/90	189	GK
+767	Germany	22	Marc-Andre TER STEGEN	FC Barcelona (ESP)	30/04/92	187	GK
+768	Mexico	1	Jose CORONA	Cruz Azul (MEX)	26/01/81	182	GK
+769	Mexico	5	Erick GUTIERREZ	CF Pachuca (MEX)	15/06/95	176	MF
+770	Mexico	12	Alfredo TALAVERA	Toluca (MEX)	18/09/82	188	GK
+771	Mexico	20	Javier AQUINO	Tigres (MEX)	11/02/90	166	MF
+772	Sweden	12	Karl-Johan JOHNSSON	Guingamp (FRA)	28/01/90	187	GK
+773	Sweden	14	Filip HELANDER	Bologna (ITA)	22/04/93	192	DF
+774	Sweden	19	Marcus ROHDEN	Crotone FC (ITA)	11/05/91	182	MF
+775	Sweden	23	Kristoffer NORDFELDT	Swansea City (WAL)	23/06/89	190	GK
+776	Korea Republic	1	KIM Seunggyu	Vissel Kobe (JPN)	30/09/90	187	GK
+777	Korea Republic	3	JUNG Seunghyun	Sagan Tosu Football. (JPN)	03/04/94	188	DF
+778	Korea Republic	4	OH Bansuk	Jeju United (KOR)	20/05/88	189	DF
+779	Korea Republic	21	KIM Jinhyeon	Cerezo Osaka (JPN)	06/07/87	193	GK
+780	Belgium	12	Simon MIGNOLET	Liverpool (ENG)	06/03/88	193	GK
+781	Belgium	13	Koen CASTEELS	VfL Wolfsburg (GER)	25/06/92	197	GK
+782	Panama	12	Jose CALDERON	Chorrillo (PAN)	14/08/85	187	GK
+783	Panama	14	Valentin PIMENTEL	Plaza Amador (PAN)	30/05/91	189	MF
+784	Panama	22	Alex RODRIGUEZ	San Francisco (PAN)	05/08/90	197	GK
+785	England	13	Jack BUTLAND	Stoke (ENG)	10/03/93	196	GK
+786	England	23	Nick POPE	Burnley (ENG)	19/04/92	191	GK
+787	Poland	8	Karol LINETTY	Sampdoria (ITA)	02/02/95	176	MF
+788	Poland	12	Bartosz BIALKOWSKI	Ipswich Town (ENG)	06/07/87	194	GK
+789	Senegal	1	Abdoulaye DIALLO	Rennes (FRA)	30/03/92	189	GK
+790	Senegal	2	Adama MBENGUE	Caen (FRA)	01/12/93	180	DF
+791	Senegal	4	Kara MBODJI	Anderlecht (BEL)	22/11/89	192	DF
+792	Senegal	7	Moussa SOW	Bursaspor (TUR)	19/01/86	180	FW
+793	Senegal	23	Alfred GOMIS	Spal Ferrara (ITA)	05/09/93	196	GK
+794	Colombia	12	Camilo VARGAS	Cali (COL)	09/03/89	185	GK
+795	Colombia	18	Farid DIAZ	Olimpia (PAR)	20/07/83	170	DF
+796	Colombia	22	Jose CUADRADO	Once Caldas (COL)	01/06/85	180	GK
+797	Japan	2	Naomichi UEDA	Kashima Antlers (JPN)	24/10/94	186	DF
+798	Japan	6	Wataru ENDO	Urawa Reds (JPN)	09/02/93	178	DF
+799	Japan	12	Masaaki HIGASHIGUCHI	Gamba Osaka (JPN)	12/05/86	184	GK
+800	Japan	18	Ryota OHSHIMA	Kawasaki Frontale (JPN)	23/01/93	168	MF
+801	Japan	23	Kosuke NAKAMURA	Kashiwa Reysol (JPN)	27/02/95	184	GK
