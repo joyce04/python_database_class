@@ -40,7 +40,7 @@
 
 4. Python-MongoDB 실습
 
-   - MongoDB Atlas 계정 만들고, Cluster 생성하기
+   - MongoDB Atlas(https://cloud.mongodb.com) 계정 만들고, Cluster 생성하기
 
    - MongoDB 에 대한 간단한 설명 및 JSON
 
@@ -48,13 +48,9 @@
 
        - https://my-json-server.typicode.com/joyce04/python_database_class/
        - https://my-json-server.typicode.com/joyce04/python_database_class/posts/1
-
        - https://my-json-server.typicode.com/joyce04/python_database_class/comments
-
        - https://my-json-server.typicode.com/joyce04/python_database_class/comments/1
-
        - https://my-json-server.typicode.com/joyce04/python_database_class/matches
-
        - https://my-json-server.typicode.com/joyce04/python_database_class/matches/5be3516a827e3c43f33ba121
 
    - Mongo shell 설치 및 실습
